@@ -1,0 +1,1185 @@
+{
+  "items": [
+    {
+      "description": "There are dozens of \"awesome computer vision\" repositories on GitHub. Most are encyclopedic with thousands of links arranged by topic, with no guidance on where to start, what order to read things in, or why one resource matters more than another. They are useful as archives. They are less useful as learning tools.\nThis list is built around a different idea: curation over comprehensiveness.\nEvery entry is here because it genuinely helps someone understand computer vision more deeply — not simply because it exists. Resources are organised to reflect how the field is actually learned: from image fundamentals and classical methods, through deep learning, to the transformer-era models that define current research.",
+      "items": [],
+      "title": "Why this list exists"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "What makes this different"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Contents"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenCV",
+          "description": "Open Source Computer Vision Library · ✅ active",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T09:21:29Z",
+            "owner": "opencv",
+            "repo": "opencv",
+            "stars": 90402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SciPy",
+          "description": "Open-source software for mathematics, science, and engineering · ✅ active",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T23:42:54Z",
+            "owner": "scipy",
+            "repo": "scipy",
+            "stars": 14911
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pillow",
+          "description": "The friendly PIL fork (Python Imaging Library) · ✅ active",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T02:26:22Z",
+            "owner": "python-pillow",
+            "repo": "Pillow",
+            "stars": 13750
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kornia",
+          "description": "Open source differentiable computer vision library for PyTorch · ✅ active",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T15:05:19Z",
+            "owner": "kornia",
+            "repo": "kornia",
+            "stars": 11315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scikit-image",
+          "description": "Collection of algorithms for image processing · ✅ active",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T10:25:10Z",
+            "owner": "scikit-image",
+            "repo": "scikit-image",
+            "stars": 6573
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mmcv",
+          "description": "OpenMMLab foundational library for computer vision research · ✅ active",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-29T17:08:43Z",
+            "owner": "open-mmlab",
+            "repo": "mmcv",
+            "stars": 6466
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "imutils",
+          "description": "Convenience functions for basic image processing operations · ✅ active",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-24T13:34:47Z",
+            "owner": "PyImageSearch",
+            "repo": "imutils",
+            "stars": 4592
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimpleCV",
+          "description": "Open Source Framework for Machine Vision · 🗄️ archived",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-20T19:39:00Z",
+            "owner": "sightmachine",
+            "repo": "SimpleCV",
+            "stars": 2731
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mahotas",
+          "description": "Fast computer vision algorithms in Python · ⚠️ legacy",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-12T03:35:16Z",
+            "owner": "luispedro",
+            "repo": "mahotas",
+            "stars": 888
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pgmagick",
+          "description": "Python wrapper for GraphicsMagick/ImageMagick · ⚠️ legacy",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T05:44:21Z",
+            "owner": "hhatto",
+            "repo": "pgmagick",
+            "stars": 160
+          }
+        }
+      ],
+      "title": "Python Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Image",
+          "description": "Encoding and decoding images in Rust · ✅ active",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-07T19:42:11Z",
+            "owner": "image-rs",
+            "repo": "image",
+            "stars": 5850
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Photon",
+          "description": "Rust/WebAssembly image processing library · ⚠️ legacy",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-02T17:27:20Z",
+            "owner": "silvia-odwyer",
+            "repo": "photon",
+            "stars": 3880
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenCV-Rust",
+          "description": "Rust bindings for OpenCV 3.4, 4.x, and 5.x · ✅ active",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-31T06:34:26Z",
+            "owner": "twistedfall",
+            "repo": "opencv-rust",
+            "stars": 2477
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ImageProc",
+          "description": "Image processing operations built on the image crate · ✅ active",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-31T20:54:32Z",
+            "owner": "image-rs",
+            "repo": "imageproc",
+            "stars": 976
+          }
+        }
+      ],
+      "title": "Rust Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PaddleOCR",
+          "description": "Practical ultra-lightweight OCR system supporting 80+ languages with tools for training and deployment across server, mobile, and IoT devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-22T11:59:34Z",
+            "owner": "PaddlePaddle",
+            "repo": "PaddleOCR",
+            "stars": 87560
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yolov5",
+          "description": "Ultralytics' YOLOv5 object detection framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T19:01:35Z",
+            "owner": "ultralytics",
+            "repo": "yolov5",
+            "stars": 57863
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyTorch image models",
+          "description": "A wide collection of PyTorch image classification models, scripts, and pretrained weights.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T20:56:26Z",
+            "owner": "huggingface",
+            "repo": "pytorch-image-models",
+            "stars": 37062
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MediaPipe",
+          "description": "Google's cross-platform framework supporting face detection, hand/pose tracking, object detection, hair segmentation, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T21:50:21Z",
+            "owner": "google-ai-edge",
+            "repo": "mediapipe",
+            "stars": 36604
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "detectron2",
+          "description": "Facebook FAIR's next-generation platform for object detection, segmentation, and other visual recognition tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-24T22:21:57Z",
+            "owner": "facebookresearch",
+            "repo": "detectron2",
+            "stars": 34664
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openpose",
+          "description": "Real-time multi-person keypoint detection for body, face, hands, and feet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-08-03T01:59:11Z",
+            "owner": "CMU-Perceptual-Computing-Lab",
+            "repo": "openpose",
+            "stars": 34361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mmdetection",
+          "description": "OpenMMLab's image detection toolbox and benchmark.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-21T02:01:07Z",
+            "owner": "open-mmlab",
+            "repo": "mmdetection",
+            "stars": 32873
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytorch-lightning",
+          "description": "Lightweight PyTorch wrapper for high-performance AI research.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T12:04:16Z",
+            "owner": "Lightning-AI",
+            "repo": "pytorch-lightning",
+            "stars": 31287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EasyOCR",
+          "description": "Ready-to-use OCR supporting 80+ languages and all popular writing scripts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-05T12:23:12Z",
+            "owner": "JaidedAI",
+            "repo": "EasyOCR",
+            "stars": 29902
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FastAI",
+          "description": "Library over PyTorch used for learning and practicing machine learning and deep learning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-30T22:41:22Z",
+            "owner": "fastai",
+            "repo": "fastai",
+            "stars": 28116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SHAP",
+          "description": "Game-theoretic approach to explain the output of any machine learning model.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-11T21:52:04Z",
+            "owner": "shap",
+            "repo": "shap",
+            "stars": 25684
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vit-pytorch",
+          "description": "SOTA implementations of vision transformers in PyTorch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T15:23:44Z",
+            "owner": "lucidrains",
+            "repo": "vit-pytorch",
+            "stars": 25482
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytorch_geometric",
+          "description": "Graph Neural Network Library for PyTorch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T05:51:27Z",
+            "owner": "pyg-team",
+            "repo": "pytorch_geometric",
+            "stars": 24006
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ncnn",
+          "description": "Tencent's high-performance neural network inference framework optimized for mobile platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T09:19:51Z",
+            "owner": "Tencent",
+            "repo": "ncnn",
+            "stars": 23691
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "darknet",
+          "description": "YOLOv4 / Scaled-YOLOv4 / YOLOv3 / YOLOv2 implementations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-12-15T16:10:05Z",
+            "owner": "AlexeyAB",
+            "repo": "darknet",
+            "stars": 22151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bringing-Old-Photos-Back-to-Life",
+          "description": "Microsoft's CVPR 2020 oral paper implementation for restoring old and damaged photos.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-26T08:06:57Z",
+            "owner": "microsoft",
+            "repo": "Bringing-Old-Photos-Back-to-Life",
+            "stars": 15703
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "detr",
+          "description": "Facebook's end-to-end object detection with transformers.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-03-12T15:58:25Z",
+            "owner": "facebookresearch",
+            "repo": "detr",
+            "stars": 15358
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "albumentations",
+          "description": "Fast image augmentation library with an easy-to-use wrapper around other libraries.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-06-25T23:21:43Z",
+            "owner": "albumentations-team",
+            "repo": "albumentations",
+            "stars": 15317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytorch-grad-cam",
+          "description": "Advanced AI explainability for computer vision in PyTorch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T07:15:26Z",
+            "owner": "jacobgil",
+            "repo": "pytorch-grad-cam",
+            "stars": 12951
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libfacedetection",
+          "description": "Open source library for face detection in images, achieving ~1000FPS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-28T12:33:49Z",
+            "owner": "ShiqiYu",
+            "repo": "libfacedetection",
+            "stars": 12777
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "segmentation_models.pytorch",
+          "description": "PyTorch segmentation models with pretrained backbones.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T07:19:50Z",
+            "owner": "qubvel-org",
+            "repo": "segmentation_models.pytorch",
+            "stars": 11690
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kornia",
+          "description": "Open source differentiable computer vision library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T15:05:19Z",
+            "owner": "kornia",
+            "repo": "kornia",
+            "stars": 11315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DALLE2-pytorch",
+          "description": "PyTorch implementation of OpenAI's DALL-E 2 text-to-image synthesis network.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-11T19:18:10Z",
+            "owner": "lucidrains",
+            "repo": "DALLE2-pytorch",
+            "stars": 11302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ORB_SLAM2",
+          "description": "Real-time SLAM for monocular, stereo and RGB-D cameras with loop detection and relocalization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-05-15T07:48:28Z",
+            "owner": "raulmur",
+            "repo": "ORB_SLAM2",
+            "stars": 10207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyod",
+          "description": "Python toolbox for scalable outlier and anomaly detection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T12:42:17Z",
+            "owner": "yzhao062",
+            "repo": "pyod",
+            "stars": 9959
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mmsegmentation",
+          "description": "OpenMMLab's semantic segmentation toolbox and benchmark.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-13T08:53:34Z",
+            "owner": "open-mmlab",
+            "repo": "mmsegmentation",
+            "stars": 9913
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "computervision-recipes",
+          "description": "Microsoft's best practices, code samples, and documentation for Computer Vision.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-02-16T23:55:05Z",
+            "owner": "microsoft",
+            "repo": "computervision-recipes",
+            "stars": 9877
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "U-2-Net",
+          "description": "U²-Net: nested U-structure architecture for salient object detection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-26T04:16:45Z",
+            "owner": "xuebinqin",
+            "repo": "U-2-Net",
+            "stars": 9848
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RobustVideoMatting",
+          "description": "Robust video matting supporting PyTorch, TensorFlow, ONNX, and CoreML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-02T16:26:48Z",
+            "owner": "PeterL1n",
+            "repo": "RobustVideoMatting",
+            "stars": 9486
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PaddleSeg",
+          "description": "Easy-to-use image segmentation library supporting semantic, interactive, panoptic, and 3D segmentation among others.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T16:49:17Z",
+            "owner": "PaddlePaddle",
+            "repo": "PaddleSeg",
+            "stars": 9373
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MONAI",
+          "description": "PyTorch-based, open-source framework for deep learning in healthcare imaging.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T20:26:39Z",
+            "owner": "Project-MONAI",
+            "repo": "MONAI",
+            "stars": 8594
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "imagen-pytorch",
+          "description": "PyTorch implementation of Google's Imagen text-to-image neural network.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-07T13:00:53Z",
+            "owner": "lucidrains",
+            "repo": "imagen-pytorch",
+            "stars": 8419
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytorch-cnn-visualizations",
+          "description": "PyTorch implementations of convolutional neural network visualization techniques.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-01T10:31:10Z",
+            "owner": "utkuozbulak",
+            "repo": "pytorch-cnn-visualizations",
+            "stars": 8226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytesseract",
+          "description": "A Python wrapper for Google's Tesseract OCR engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-13T19:52:40Z",
+            "owner": "madmaze",
+            "repo": "pytesseract",
+            "stars": 6381
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "face_classification",
+          "description": "Real-time face detection and emotion/gender classification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-08T20:04:21Z",
+            "owner": "oarriaga",
+            "repo": "face_classification",
+            "stars": 5734
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Captum",
+          "description": "PyTorch team's library for model interpretability and understanding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T18:08:55Z",
+            "owner": "meta-pytorch",
+            "repo": "captum",
+            "stars": 5685
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "imagededup",
+          "description": "Simple tool to find and remove duplicate images from datasets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-15T15:19:22Z",
+            "owner": "idealo",
+            "repo": "imagededup",
+            "stars": 5664
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SAHI",
+          "description": "Lightweight vision library for large-scale object detection and instance segmentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T19:56:02Z",
+            "owner": "obss",
+            "repo": "sahi",
+            "stars": 5459
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Object-Detection-Metrics",
+          "description": "The most popular metrics used to evaluate object detection algorithms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-16T14:21:12Z",
+            "owner": "rafaelpadilla",
+            "repo": "Object-Detection-Metrics",
+            "stars": 5101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ignite",
+          "description": "PyTorch's high-level library to help with training and evaluating neural networks flexibly and transparently.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T17:56:49Z",
+            "owner": "pytorch",
+            "repo": "ignite",
+            "stars": 4773
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mmocr",
+          "description": "OpenMMLab's text detection, recognition and understanding toolbox.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-27T09:38:10Z",
+            "owner": "open-mmlab",
+            "repo": "mmocr",
+            "stars": 4748
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mmtracking",
+          "description": "OpenMMLab's video perception toolbox for object detection and tracking.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-19T07:31:38Z",
+            "owner": "open-mmlab",
+            "repo": "mmtracking",
+            "stars": 3894
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mmclassification",
+          "description": "OpenMMLab's image classification toolbox and benchmark.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-01T06:27:36Z",
+            "owner": "open-mmlab",
+            "repo": "mmpretrain",
+            "stars": 3848
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TensorWatch",
+          "description": "Microsoft's debugging, monitoring, and visualization tool for Python ML and data science.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-30T21:27:28Z",
+            "owner": "microsoft",
+            "repo": "tensorwatch",
+            "stars": 3470
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VTK",
+          "description": "Open-source software system for image processing, 3D graphics, volume rendering and visualization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T04:03:15Z",
+            "owner": "Kitware",
+            "repo": "VTK",
+            "stars": 3189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "keras-vis",
+          "description": "Neural network visualization toolkit for Keras.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-07T16:06:07Z",
+            "owner": "raghakot",
+            "repo": "keras-vis",
+            "stars": 2992
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "image-match",
+          "description": "Fast image retrieval system capable of searching over billions of images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-06T11:29:04Z",
+            "owner": "rhsimplex",
+            "repo": "image-match",
+            "stars": 2978
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FaceDetection-DSFD",
+          "description": "Tencent's state-of-the-art face detector.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-13T03:22:53Z",
+            "owner": "Tencent",
+            "repo": "FaceDetection-DSFD",
+            "stars": 2970
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alibi",
+          "description": "Algorithms for explaining machine learning models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-17T13:23:21Z",
+            "owner": "SeldonIO",
+            "repo": "alibi",
+            "stars": 2643
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alibi-detect",
+          "description": "Algorithms for outlier, adversarial, and drift detection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-12-11T16:35:15Z",
+            "owner": "SeldonIO",
+            "repo": "alibi-detect",
+            "stars": 2546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "image-quality-assessment",
+          "description": "Idealo's NIMA model to predict the aesthetic and technical quality of images.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-07-12T19:16:31Z",
+            "owner": "idealo",
+            "repo": "image-quality-assessment",
+            "stars": 2243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PsychoPy",
+          "description": "Library for running psychology and neuroscience experiments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T16:39:21Z",
+            "owner": "psychopy",
+            "repo": "psychopy",
+            "stars": 2063
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fastdup",
+          "description": "Unsupervised and free tool for image and video dataset analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-14T06:37:21Z",
+            "owner": "visual-layer",
+            "repo": "fastdup",
+            "stars": 1891
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mmaction",
+          "description": "OpenMMLab's open-source toolbox for action understanding based on PyTorch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-08T03:44:50Z",
+            "owner": "open-mmlab",
+            "repo": "mmaction",
+            "stars": 1875
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WeightWatcher",
+          "description": "Open-source diagnostic tool for analyzing deep neural networks without needing training or test data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-11T16:40:41Z",
+            "owner": "CalculatedContent",
+            "repo": "WeightWatcher",
+            "stars": 1771
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ITK",
+          "description": "Open-source, cross-platform toolkit for N-dimensional scientific image processing, segmentation, and registration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T01:03:11Z",
+            "owner": "InsightSoftwareConsortium",
+            "repo": "ITK",
+            "stars": 1642
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iNNvestigate",
+          "description": "TensorFlow toolbox for investigating neural network predictions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-11T14:13:23Z",
+            "owner": "albermax",
+            "repo": "innvestigate",
+            "stars": 1307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CutMix-PyTorch",
+          "description": "Official PyTorch implementation of the CutMix regularizer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-09-16T03:47:45Z",
+            "owner": "clovaai",
+            "repo": "CutMix-PyTorch",
+            "stars": 1251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keract",
+          "description": "Keras tool for extracting layer outputs and gradients.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-07T02:04:56Z",
+            "owner": "philipperemy",
+            "repo": "keract",
+            "stars": 1059
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "keras-cv",
+          "description": "Library of modular computer vision oriented Keras components.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-03-05T23:54:07Z",
+            "owner": "keras-team",
+            "repo": "keras-cv",
+            "stars": 1057
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Random-Erasing",
+          "description": "Random erasing data augmentation implemented in PyTorch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-08T12:56:54Z",
+            "owner": "zhunzhong07",
+            "repo": "Random-Erasing",
+            "stars": 735
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aesthetics",
+          "description": "Image aesthetics toolkit using Fisher Vectors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-06T21:12:18Z",
+            "owner": "ylogx",
+            "repo": "aesthetics",
+            "stars": 231
+          }
+        }
+      ],
+      "title": "Repos"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "the-incredible-pytorch",
+          "description": ", Curated list of tutorials, papers, projects, communities and more relating to PyTorch",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-22T04:42:11Z",
+            "owner": "ritchieng",
+            "repo": "the-incredible-pytorch",
+            "stars": 12617
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anomaly-detection-resources",
+          "description": ", Anomaly detection related books, papers, videos, and toolboxes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-02T04:42:20Z",
+            "owner": "yzhao062",
+            "repo": "anomaly-detection-resources",
+            "stars": 9365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-Face_Recognition",
+          "description": ", Computer vision papers about faces.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-02-09T07:02:58Z",
+            "owner": "ChanChiChoi",
+            "repo": "awesome-Face_Recognition",
+            "stars": 4754
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-satellite-imagery-datasets",
+          "description": "List of satellite image training datasets with annotations for computer vision and deep learning",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2022-07-14T18:02:46Z",
+            "owner": "chrieke",
+            "repo": "awesome-satellite-imagery-datasets",
+            "stars": 3915
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "benthecoder/yt-channels-DS-AI-ML-CS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-19T13:06:00Z",
+            "owner": "benthecoder",
+            "repo": "yt-channels-DS-AI-ML-CS",
+            "stars": 1618
+          }
+        }
+      ],
+      "title": "Thanks"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T09:32:56.798Z",
+    "original_repository": "mawady/awesome-computer-vision-resources",
+    "original_repository_sha": "b2c3ac2a2e2dd6285d001a4569f0e229ddb98b3a",
+    "enhanced_repository": "enhansome/enhansome-computer-vision-resources",
+    "enhanced_repository_description": null,
+    "title": "Awesome Computer Vision Resources: From Foundations to Research with stars"
+  }
+}
