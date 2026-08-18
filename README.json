@@ -26,10 +26,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T07:26:55Z",
+            "last_commit": "2026-08-18T08:14:18Z",
             "owner": "opencv",
             "repo": "opencv",
-            "stars": 90458
+            "stars": 90479
           }
         },
         {
@@ -40,10 +40,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T03:41:25Z",
+            "last_commit": "2026-08-18T08:03:05Z",
             "owner": "scipy",
             "repo": "scipy",
-            "stars": 14930
+            "stars": 14934
           }
         },
         {
@@ -54,10 +54,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T08:03:40Z",
+            "last_commit": "2026-08-18T03:21:16Z",
             "owner": "python-pillow",
             "repo": "Pillow",
-            "stars": 13758
+            "stars": 13757
           }
         },
         {
@@ -68,10 +68,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T21:09:42Z",
+            "last_commit": "2026-08-17T21:30:31Z",
             "owner": "kornia",
             "repo": "kornia",
-            "stars": 11314
+            "stars": 11313
           }
         },
         {
@@ -82,10 +82,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T09:57:16Z",
+            "last_commit": "2026-08-17T11:07:09Z",
             "owner": "scikit-image",
             "repo": "scikit-image",
-            "stars": 6573
+            "stars": 6572
           }
         },
         {
@@ -189,7 +189,7 @@
             "last_commit": "2026-07-02T17:27:20Z",
             "owner": "silvia-odwyer",
             "repo": "photon",
-            "stars": 3880
+            "stars": 3879
           }
         },
         {
@@ -203,7 +203,7 @@
             "last_commit": "2026-07-31T06:34:26Z",
             "owner": "twistedfall",
             "repo": "opencv-rust",
-            "stars": 2477
+            "stars": 2479
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2026-07-22T11:59:34Z",
             "owner": "PaddlePaddle",
             "repo": "PaddleOCR",
-            "stars": 87777
+            "stars": 87847
           }
         },
         {
@@ -251,7 +251,7 @@
             "last_commit": "2026-08-16T10:37:11Z",
             "owner": "ultralytics",
             "repo": "yolov5",
-            "stars": 57887
+            "stars": 57895
           }
         },
         {
@@ -265,7 +265,7 @@
             "last_commit": "2026-08-11T20:56:26Z",
             "owner": "huggingface",
             "repo": "pytorch-image-models",
-            "stars": 37066
+            "stars": 37072
           }
         },
         {
@@ -276,10 +276,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T21:50:21Z",
+            "last_commit": "2026-08-17T21:11:06Z",
             "owner": "google-ai-edge",
             "repo": "mediapipe",
-            "stars": 36636
+            "stars": 36648
           }
         },
         {
@@ -293,7 +293,7 @@
             "last_commit": "2026-07-24T22:21:57Z",
             "owner": "facebookresearch",
             "repo": "detectron2",
-            "stars": 34667
+            "stars": 34668
           }
         },
         {
@@ -307,7 +307,7 @@
             "last_commit": "2024-08-03T01:59:11Z",
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34367
+            "stars": 34371
           }
         },
         {
@@ -321,7 +321,7 @@
             "last_commit": "2024-08-21T02:01:07Z",
             "owner": "open-mmlab",
             "repo": "mmdetection",
-            "stars": 32880
+            "stars": 32882
           }
         },
         {
@@ -335,7 +335,7 @@
             "last_commit": "2026-08-09T12:04:16Z",
             "owner": "Lightning-AI",
             "repo": "pytorch-lightning",
-            "stars": 31288
+            "stars": 31292
           }
         },
         {
@@ -349,7 +349,7 @@
             "last_commit": "2025-12-05T12:23:12Z",
             "owner": "JaidedAI",
             "repo": "EasyOCR",
-            "stars": 29912
+            "stars": 29918
           }
         },
         {
@@ -377,7 +377,7 @@
             "last_commit": "2026-08-11T21:52:04Z",
             "owner": "shap",
             "repo": "shap",
-            "stars": 25687
+            "stars": 25690
           }
         },
         {
@@ -391,7 +391,7 @@
             "last_commit": "2026-08-02T15:23:44Z",
             "owner": "lucidrains",
             "repo": "vit-pytorch",
-            "stars": 25481
+            "stars": 25484
           }
         },
         {
@@ -402,10 +402,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-31T05:51:27Z",
+            "last_commit": "2026-08-17T23:02:36Z",
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24012
+            "stars": 24018
           }
         },
         {
@@ -416,10 +416,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-17T07:44:30Z",
+            "last_commit": "2026-08-18T08:40:18Z",
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23703
+            "stars": 23708
           }
         },
         {
@@ -489,7 +489,7 @@
             "last_commit": "2026-08-13T07:15:26Z",
             "owner": "jacobgil",
             "repo": "pytorch-grad-cam",
-            "stars": 12954
+            "stars": 12955
           }
         },
         {
@@ -517,7 +517,7 @@
             "last_commit": "2026-08-17T01:43:34Z",
             "owner": "qubvel-org",
             "repo": "segmentation_models.pytorch",
-            "stars": 11695
+            "stars": 11697
           }
         },
         {
@@ -528,10 +528,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T21:09:42Z",
+            "last_commit": "2026-08-17T21:30:31Z",
             "owner": "kornia",
             "repo": "kornia",
-            "stars": 11314
+            "stars": 11313
           }
         },
         {
@@ -573,7 +573,7 @@
             "last_commit": "2026-08-17T04:36:26Z",
             "owner": "yzhao062",
             "repo": "pyod",
-            "stars": 9960
+            "stars": 9968
           }
         },
         {
@@ -587,7 +587,7 @@
             "last_commit": "2024-08-13T08:53:34Z",
             "owner": "open-mmlab",
             "repo": "mmsegmentation",
-            "stars": 9918
+            "stars": 9919
           }
         },
         {
@@ -601,7 +601,7 @@
             "last_commit": "2024-02-16T23:55:05Z",
             "owner": "microsoft",
             "repo": "computervision-recipes",
-            "stars": 9880
+            "stars": 9879
           }
         },
         {
@@ -629,7 +629,7 @@
             "last_commit": "2024-04-02T16:26:48Z",
             "owner": "PeterL1n",
             "repo": "RobustVideoMatting",
-            "stars": 9485
+            "stars": 9488
           }
         },
         {
@@ -654,10 +654,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T23:08:57Z",
+            "last_commit": "2026-08-17T13:30:03Z",
             "owner": "Project-MONAI",
             "repo": "MONAI",
-            "stars": 8601
+            "stars": 8604
           }
         },
         {
@@ -724,10 +724,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T18:25:58Z",
+            "last_commit": "2026-08-17T19:52:47Z",
             "owner": "meta-pytorch",
             "repo": "captum",
-            "stars": 5685
+            "stars": 5687
           }
         },
         {
@@ -755,7 +755,7 @@
             "last_commit": "2026-08-16T22:10:27Z",
             "owner": "obss",
             "repo": "sahi",
-            "stars": 5466
+            "stars": 5467
           }
         },
         {
@@ -780,7 +780,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T07:49:53Z",
+            "last_commit": "2026-08-17T23:45:17Z",
             "owner": "pytorch",
             "repo": "ignite",
             "stars": 4775
@@ -811,7 +811,7 @@
             "last_commit": "2023-09-19T07:31:38Z",
             "owner": "open-mmlab",
             "repo": "mmtracking",
-            "stars": 3894
+            "stars": 3895
           }
         },
         {
@@ -850,10 +850,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-17T04:03:25Z",
+            "last_commit": "2026-08-18T04:03:51Z",
             "owner": "Kitware",
             "repo": "VTK",
-            "stars": 3191
+            "stars": 3193
           }
         },
         {
@@ -867,7 +867,7 @@
             "last_commit": "2022-02-07T16:06:07Z",
             "owner": "raghakot",
             "repo": "keras-vis",
-            "stars": 2992
+            "stars": 2991
           }
         },
         {
@@ -951,7 +951,7 @@
             "last_commit": "2026-08-14T10:57:11Z",
             "owner": "psychopy",
             "repo": "psychopy",
-            "stars": 2067
+            "stars": 2068
           }
         },
         {
@@ -965,7 +965,7 @@
             "last_commit": "2026-04-14T06:37:21Z",
             "owner": "visual-layer",
             "repo": "fastdup",
-            "stars": 1903
+            "stars": 1904
           }
         },
         {
@@ -1035,7 +1035,7 @@
             "last_commit": "2020-09-16T03:47:45Z",
             "owner": "clovaai",
             "repo": "CutMix-PyTorch",
-            "stars": 1250
+            "stars": 1251
           }
         },
         {
@@ -1063,7 +1063,7 @@
             "last_commit": "2026-03-05T23:54:07Z",
             "owner": "keras-team",
             "repo": "keras-cv",
-            "stars": 1056
+            "stars": 1055
           }
         },
         {
@@ -1111,7 +1111,7 @@
             "last_commit": "2026-07-22T04:42:11Z",
             "owner": "ritchieng",
             "repo": "the-incredible-pytorch",
-            "stars": 12622
+            "stars": 12623
           }
         },
         {
@@ -1175,7 +1175,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T09:00:17.544Z",
+    "last_updated": "2026-08-18T08:52:46.313Z",
     "original_repository": "mawady/awesome-computer-vision-resources",
     "original_repository_sha": "b2c3ac2a2e2dd6285d001a4569f0e229ddb98b3a",
     "enhanced_repository": "enhansome/enhansome-computer-vision-resources",
