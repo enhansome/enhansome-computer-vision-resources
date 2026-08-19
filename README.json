@@ -1,22 +1,7 @@
 {
   "items": [
     {
-      "description": "There are dozens of \"awesome computer vision\" repositories on GitHub. Most are encyclopedic with thousands of links arranged by topic, with no guidance on where to start, what order to read things in, or why one resource matters more than another. They are useful as archives. They are less useful as learning tools.\nThis list is built around a different idea: curation over comprehensiveness.\nEvery entry is here because it genuinely helps someone understand computer vision more deeply — not simply because it exists. Resources are organised to reflect how the field is actually learned: from image fundamentals and classical methods, through deep learning, to the transformer-era models that define current research.",
-      "items": [],
-      "title": "Why this list exists"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "What makes this different"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Contents"
-    },
-    {
-      "description": "",
+      "description": "Status: ✅ active (updated within 2 years) · ⚠️ legacy (unmaintained but historically useful) · 🗄️ archived (officially abandoned)",
       "items": [
         {
           "node_type": "item",
@@ -25,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5108051,
             "language": "C++",
-            "last_commit": "2026-08-18T08:14:18Z",
+            "last_commit": "2026-08-19T08:07:57Z",
             "owner": "opencv",
             "repo": "opencv",
-            "stars": 90479
+            "stars": 90494
           }
         },
         {
@@ -39,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1460385,
             "language": "Python",
-            "last_commit": "2026-08-18T08:03:05Z",
+            "last_commit": "2026-08-19T08:08:20Z",
             "owner": "scipy",
             "repo": "scipy",
-            "stars": 14934
+            "stars": 14935
           }
         },
         {
@@ -53,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5171600,
             "language": "Python",
             "last_commit": "2026-08-18T03:21:16Z",
             "owner": "python-pillow",
             "repo": "Pillow",
-            "stars": 13757
+            "stars": 13761
           }
         },
         {
@@ -67,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145693916,
             "language": "Python",
-            "last_commit": "2026-08-17T21:30:31Z",
+            "last_commit": "2026-08-18T15:50:58Z",
             "owner": "kornia",
             "repo": "kornia",
-            "stars": 11313
+            "stars": 11315
           }
         },
         {
@@ -81,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2014929,
             "language": "Python",
             "last_commit": "2026-08-17T11:07:09Z",
             "owner": "scikit-image",
@@ -95,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145670155,
             "language": "Python",
             "last_commit": "2026-01-29T17:08:43Z",
             "owner": "open-mmlab",
@@ -109,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29104125,
             "language": "Python",
             "last_commit": "2024-06-24T13:34:47Z",
             "owner": "PyImageSearch",
@@ -123,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2217282,
             "language": "Python",
             "last_commit": "2024-12-20T19:39:00Z",
             "owner": "sightmachine",
@@ -137,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 495613,
             "language": "Python",
             "last_commit": "2026-06-12T03:35:16Z",
             "owner": "luispedro",
@@ -151,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13718558,
             "language": "C++",
             "last_commit": "2026-08-12T05:44:21Z",
             "owner": "hhatto",
@@ -162,7 +157,7 @@
       "title": "Python Libraries"
     },
     {
-      "description": "",
+      "description": "Status: ✅ active (updated within 2 years) · ⚠️ legacy (unmaintained but historically useful) · 🗄️ archived (officially abandoned)",
       "items": [
         {
           "node_type": "item",
@@ -171,11 +166,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20153092,
             "language": "Rust",
             "last_commit": "2026-08-07T19:42:11Z",
             "owner": "image-rs",
             "repo": "image",
-            "stars": 5852
+            "stars": 5853
           }
         },
         {
@@ -185,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 170569105,
             "language": "Rust",
             "last_commit": "2026-07-02T17:27:20Z",
             "owner": "silvia-odwyer",
@@ -199,11 +196,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33914894,
             "language": "Rust",
             "last_commit": "2026-07-31T06:34:26Z",
             "owner": "twistedfall",
             "repo": "opencv-rust",
-            "stars": 2479
+            "stars": 2480
           }
         },
         {
@@ -213,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43258349,
             "language": "Rust",
             "last_commit": "2026-07-31T20:54:32Z",
             "owner": "image-rs",
@@ -224,7 +223,7 @@
       "title": "Rust Libraries"
     },
     {
-      "description": "",
+      "description": "Tags: Object Classification , Object Detection , Object Segmentation , General Library , Text Reading / Object Character Recognition , Action Recognition , Object Tracking , Data Augmentation , Simultaneous Localization and Mapping , Outlier/Anomaly/Novelty Detection , Content-based Image Retrieval , Image Enhancement , Aesthetic Assessment , Explainable Artificial Intelligence , Text-to-Image Generation , Pose Estimation , Video Matting , Eye Tracking",
       "items": [
         {
           "node_type": "item",
@@ -233,11 +232,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 262296122,
             "language": "Python",
             "last_commit": "2026-07-22T11:59:34Z",
             "owner": "PaddlePaddle",
             "repo": "PaddleOCR",
-            "stars": 87847
+            "stars": 87903
           }
         },
         {
@@ -247,11 +247,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 264818686,
             "language": "Python",
             "last_commit": "2026-08-16T10:37:11Z",
             "owner": "ultralytics",
             "repo": "yolov5",
-            "stars": 57895
+            "stars": 57900
           }
         },
         {
@@ -261,11 +262,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 168799526,
             "language": "Python",
             "last_commit": "2026-08-11T20:56:26Z",
             "owner": "huggingface",
             "repo": "pytorch-image-models",
-            "stars": 37072
+            "stars": 37074
           }
         },
         {
@@ -275,11 +277,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 191820100,
             "language": "C++",
-            "last_commit": "2026-08-17T21:11:06Z",
+            "last_commit": "2026-08-18T21:11:48Z",
             "owner": "google-ai-edge",
             "repo": "mediapipe",
-            "stars": 36648
+            "stars": 36659
           }
         },
         {
@@ -289,11 +292,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 206660580,
             "language": "Python",
-            "last_commit": "2026-07-24T22:21:57Z",
+            "last_commit": "2026-08-19T05:38:53Z",
             "owner": "facebookresearch",
             "repo": "detectron2",
-            "stars": 34668
+            "stars": 34674
           }
         },
         {
@@ -303,11 +307,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89247811,
             "language": "C++",
             "last_commit": "2024-08-03T01:59:11Z",
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34371
+            "stars": 34372
           }
         },
         {
@@ -317,11 +322,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145670234,
             "language": "Python",
             "last_commit": "2024-08-21T02:01:07Z",
             "owner": "open-mmlab",
             "repo": "mmdetection",
-            "stars": 32882
+            "stars": 32883
           }
         },
         {
@@ -331,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 178626720,
             "language": "Python",
             "last_commit": "2026-08-09T12:04:16Z",
             "owner": "Lightning-AI",
@@ -345,11 +352,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 247266215,
             "language": "Python",
             "last_commit": "2025-12-05T12:23:12Z",
             "owner": "JaidedAI",
             "repo": "EasyOCR",
-            "stars": 29918
+            "stars": 29916
           }
         },
         {
@@ -359,11 +367,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102973646,
             "language": "Jupyter Notebook",
             "last_commit": "2026-08-15T09:18:08Z",
             "owner": "fastai",
             "repo": "fastai",
-            "stars": 28114
+            "stars": 28115
           }
         },
         {
@@ -373,11 +382,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74505259,
             "language": "Jupyter Notebook",
             "last_commit": "2026-08-11T21:52:04Z",
             "owner": "shap",
             "repo": "shap",
-            "stars": 25690
+            "stars": 25692
           }
         },
         {
@@ -387,11 +397,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 300996055,
             "language": "Python",
             "last_commit": "2026-08-02T15:23:44Z",
             "owner": "lucidrains",
             "repo": "vit-pytorch",
-            "stars": 25484
+            "stars": 25487
           }
         },
         {
@@ -401,6 +412,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106024057,
             "language": "Python",
             "last_commit": "2026-08-17T23:02:36Z",
             "owner": "pyg-team",
@@ -415,11 +427,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95879426,
             "language": "C++",
             "last_commit": "2026-08-18T08:40:18Z",
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23708
+            "stars": 23713
           }
         },
         {
@@ -429,6 +442,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75388965,
             "language": "C",
             "last_commit": "2025-12-15T16:10:05Z",
             "owner": "AlexeyAB",
@@ -443,11 +457,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 274594200,
             "language": "Python",
             "last_commit": "2023-10-26T08:06:57Z",
             "owner": "microsoft",
             "repo": "Bringing-Old-Photos-Back-to-Life",
-            "stars": 15700
+            "stars": 15702
           }
         },
         {
@@ -457,11 +472,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 267176885,
             "language": "Python",
             "last_commit": "2024-03-12T15:58:25Z",
             "owner": "facebookresearch",
             "repo": "detr",
-            "stars": 15356
+            "stars": 15355
           }
         },
         {
@@ -471,11 +487,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 136265021,
             "language": "Python",
             "last_commit": "2025-06-25T23:21:43Z",
             "owner": "albumentations-team",
             "repo": "albumentations",
-            "stars": 15315
+            "stars": 15314
           }
         },
         {
@@ -485,11 +502,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92983437,
             "language": "Python",
             "last_commit": "2026-08-13T07:15:26Z",
             "owner": "jacobgil",
             "repo": "pytorch-grad-cam",
-            "stars": 12955
+            "stars": 12954
           }
         },
         {
@@ -499,11 +517,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29518121,
             "language": "C++",
             "last_commit": "2026-06-28T12:33:49Z",
             "owner": "ShiqiYu",
             "repo": "libfacedetection",
-            "stars": 12778
+            "stars": 12780
           }
         },
         {
@@ -513,11 +532,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 173333035,
             "language": "Python",
             "last_commit": "2026-08-17T01:43:34Z",
             "owner": "qubvel-org",
             "repo": "segmentation_models.pytorch",
-            "stars": 11697
+            "stars": 11699
           }
         },
         {
@@ -527,11 +547,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145693916,
             "language": "Python",
-            "last_commit": "2026-08-17T21:30:31Z",
+            "last_commit": "2026-08-18T15:50:58Z",
             "owner": "kornia",
             "repo": "kornia",
-            "stars": 11313
+            "stars": 11315
           }
         },
         {
@@ -541,11 +562,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 478823173,
             "language": "Python",
             "last_commit": "2024-05-11T19:18:10Z",
             "owner": "lucidrains",
             "repo": "DALLE2-pytorch",
-            "stars": 11306
+            "stars": 11307
           }
         },
         {
@@ -555,11 +577,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50255244,
             "language": "C++",
             "last_commit": "2024-05-15T07:48:28Z",
             "owner": "raulmur",
             "repo": "ORB_SLAM2",
-            "stars": 10212
+            "stars": 10213
           }
         },
         {
@@ -569,11 +592,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105699750,
             "language": "Python",
-            "last_commit": "2026-08-17T04:36:26Z",
+            "last_commit": "2026-08-19T03:12:27Z",
             "owner": "yzhao062",
             "repo": "pyod",
-            "stars": 9968
+            "stars": 9972
           }
         },
         {
@@ -583,6 +607,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 272133018,
             "language": "Python",
             "last_commit": "2024-08-13T08:53:34Z",
             "owner": "open-mmlab",
@@ -597,11 +622,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 170161374,
             "language": "Jupyter Notebook",
             "last_commit": "2024-02-16T23:55:05Z",
             "owner": "microsoft",
             "repo": "computervision-recipes",
-            "stars": 9879
+            "stars": 9877
           }
         },
         {
@@ -611,11 +637,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 261247446,
             "language": "Python",
             "last_commit": "2024-06-26T04:16:45Z",
             "owner": "xuebinqin",
             "repo": "U-2-Net",
-            "stars": 9850
+            "stars": 9851
           }
         },
         {
@@ -625,11 +652,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 401484223,
             "language": "Python",
             "last_commit": "2024-04-02T16:26:48Z",
             "owner": "PeterL1n",
             "repo": "RobustVideoMatting",
-            "stars": 9488
+            "stars": 9490
           }
         },
         {
@@ -639,11 +667,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 204380779,
             "language": "Python",
             "last_commit": "2026-02-05T16:49:17Z",
             "owner": "PaddlePaddle",
             "repo": "PaddleSeg",
-            "stars": 9374
+            "stars": 9375
           }
         },
         {
@@ -653,11 +682,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 214485001,
             "language": "Python",
-            "last_commit": "2026-08-17T13:30:03Z",
+            "last_commit": "2026-08-18T12:19:01Z",
             "owner": "Project-MONAI",
             "repo": "MONAI",
-            "stars": 8604
+            "stars": 8609
           }
         },
         {
@@ -667,6 +697,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 495587598,
             "language": "Python",
             "last_commit": "2024-10-07T13:00:53Z",
             "owner": "lucidrains",
@@ -681,11 +712,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107760466,
             "language": "Python",
             "last_commit": "2025-01-01T10:31:10Z",
             "owner": "utkuozbulak",
             "repo": "pytorch-cnn-visualizations",
-            "stars": 8229
+            "stars": 8230
           }
         },
         {
@@ -695,11 +727,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1030255,
             "language": "Python",
             "last_commit": "2026-07-13T19:52:40Z",
             "owner": "madmaze",
             "repo": "pytesseract",
-            "stars": 6379
+            "stars": 6378
           }
         },
         {
@@ -709,6 +742,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81460066,
             "language": "Python",
             "last_commit": "2024-03-08T20:04:21Z",
             "owner": "oarriaga",
@@ -723,11 +757,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 204734444,
             "language": "Python",
-            "last_commit": "2026-08-17T19:52:47Z",
+            "last_commit": "2026-08-18T22:26:26Z",
             "owner": "meta-pytorch",
             "repo": "captum",
-            "stars": 5687
+            "stars": 5688
           }
         },
         {
@@ -737,11 +772,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 179674896,
             "language": "Python",
             "last_commit": "2025-08-15T15:19:22Z",
             "owner": "idealo",
             "repo": "imagededup",
-            "stars": 5665
+            "stars": 5664
           }
         },
         {
@@ -751,11 +787,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 334412452,
             "language": "Python",
-            "last_commit": "2026-08-16T22:10:27Z",
+            "last_commit": "2026-08-18T23:46:02Z",
             "owner": "obss",
             "repo": "sahi",
-            "stars": 5467
+            "stars": 5470
           }
         },
         {
@@ -765,6 +802,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 134606465,
             "language": "Python",
             "last_commit": "2026-07-16T14:21:12Z",
             "owner": "rafaelpadilla",
@@ -779,6 +817,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111835796,
             "language": "Python",
             "last_commit": "2026-08-17T23:45:17Z",
             "owner": "pytorch",
@@ -793,6 +832,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 355559187,
             "language": "Python",
             "last_commit": "2024-11-27T09:38:10Z",
             "owner": "open-mmlab",
@@ -807,6 +847,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 291213368,
             "language": "Python",
             "last_commit": "2023-09-19T07:31:38Z",
             "owner": "open-mmlab",
@@ -821,6 +862,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 278415292,
             "language": "Python",
             "last_commit": "2024-11-01T06:27:36Z",
             "owner": "open-mmlab",
@@ -835,11 +877,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 186783422,
             "language": "Jupyter Notebook",
             "last_commit": "2026-03-30T21:27:28Z",
             "owner": "microsoft",
             "repo": "tensorwatch",
-            "stars": 3471
+            "stars": 3472
           }
         },
         {
@@ -849,11 +892,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 631615,
             "language": "C++",
-            "last_commit": "2026-08-18T04:03:51Z",
+            "last_commit": "2026-08-19T06:43:23Z",
             "owner": "Kitware",
             "repo": "VTK",
-            "stars": 3193
+            "stars": 3194
           }
         },
         {
@@ -863,6 +907,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73519205,
             "language": "Python",
             "last_commit": "2022-02-07T16:06:07Z",
             "owner": "raghakot",
@@ -877,6 +922,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53434551,
             "language": "Python",
             "last_commit": "2022-12-06T11:29:04Z",
             "owner": "rhsimplex",
@@ -891,6 +937,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162380526,
             "language": "Python",
             "last_commit": "2025-11-13T03:22:53Z",
             "owner": "Tencent",
@@ -905,6 +952,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 172687028,
             "language": "Python",
             "last_commit": "2025-10-17T13:23:21Z",
             "owner": "SeldonIO",
@@ -919,6 +967,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 213390927,
             "language": "Jupyter Notebook",
             "last_commit": "2025-12-11T16:35:15Z",
             "owner": "SeldonIO",
@@ -933,6 +982,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 137086172,
             "language": "Python",
             "last_commit": "2024-07-12T19:16:31Z",
             "owner": "idealo",
@@ -947,6 +997,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 879116,
             "language": "Python",
             "last_commit": "2026-08-14T10:57:11Z",
             "owner": "psychopy",
@@ -961,11 +1012,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 491036679,
             "language": "Python",
             "last_commit": "2026-04-14T06:37:21Z",
             "owner": "visual-layer",
             "repo": "fastdup",
-            "stars": 1904
+            "stars": 1903
           }
         },
         {
@@ -975,6 +1027,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 191778243,
             "language": "Python",
             "last_commit": "2022-04-08T03:44:50Z",
             "owner": "open-mmlab",
@@ -989,11 +1042,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159555286,
             "language": "Python",
             "last_commit": "2026-05-11T16:40:41Z",
             "owner": "CalculatedContent",
             "repo": "WeightWatcher",
-            "stars": 1772
+            "stars": 1773
           }
         },
         {
@@ -1003,8 +1057,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 800928,
             "language": "C++",
-            "last_commit": "2026-08-17T01:03:16Z",
+            "last_commit": "2026-08-19T01:03:27Z",
             "owner": "InsightSoftwareConsortium",
             "repo": "ITK",
             "stars": 1643
@@ -1017,6 +1072,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114153539,
             "language": "Python",
             "last_commit": "2025-04-11T14:13:23Z",
             "owner": "albermax",
@@ -1031,6 +1087,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 189136525,
             "language": "Python",
             "last_commit": "2020-09-16T03:47:45Z",
             "owner": "clovaai",
@@ -1045,6 +1102,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91534719,
             "language": "Python",
             "last_commit": "2025-04-07T02:04:56Z",
             "owner": "philipperemy",
@@ -1059,6 +1117,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 265079853,
             "language": "Python",
             "last_commit": "2026-03-05T23:54:07Z",
             "owner": "keras-team",
@@ -1073,6 +1132,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103635160,
             "language": "Python",
             "last_commit": "2023-11-08T12:56:54Z",
             "owner": "zhunzhong07",
@@ -1087,6 +1147,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85695666,
             "language": "Python",
             "last_commit": "2023-07-06T21:12:18Z",
             "owner": "ylogx",
@@ -1098,7 +1159,7 @@
       "title": "Repos"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1107,11 +1168,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81640848,
             "language": null,
             "last_commit": "2026-07-22T04:42:11Z",
             "owner": "ritchieng",
             "repo": "the-incredible-pytorch",
-            "stars": 12623
+            "stars": 12626
           }
         },
         {
@@ -1121,6 +1183,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 133717148,
             "language": "Python",
             "last_commit": "2026-03-02T04:42:20Z",
             "owner": "yzhao062",
@@ -1135,11 +1198,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156818789,
             "language": null,
             "last_commit": "2023-02-09T07:02:58Z",
             "owner": "ChanChiChoi",
             "repo": "awesome-Face_Recognition",
-            "stars": 4756
+            "stars": 4757
           }
         },
         {
@@ -1149,6 +1213,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 131768562,
             "language": null,
             "last_commit": "2022-07-14T18:02:46Z",
             "owner": "chrieke",
@@ -1163,6 +1228,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 376740449,
             "language": null,
             "last_commit": "2026-07-19T13:06:00Z",
             "owner": "benthecoder",
@@ -1175,9 +1241,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T08:52:46.313Z",
+    "last_updated": "2026-08-19T08:53:59.316Z",
     "original_repository": "mawady/awesome-computer-vision-resources",
-    "original_repository_sha": "b2c3ac2a2e2dd6285d001a4569f0e229ddb98b3a",
+    "original_repository_sha": "62d046030dd49925ae8177083ef66e9ffc7dad7a",
     "enhanced_repository": "enhansome/enhansome-computer-vision-resources",
     "enhanced_repository_description": null,
     "title": "Awesome Computer Vision Resources: From Foundations to Research with stars"
