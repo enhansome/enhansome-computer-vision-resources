@@ -12,10 +12,10 @@
             "archived": false,
             "id": 5108051,
             "language": "C++",
-            "last_commit": "2026-08-24T07:23:17Z",
+            "last_commit": "2026-08-24T12:06:23Z",
             "owner": "opencv",
             "repo": "opencv",
-            "stars": 90574
+            "stars": 90577
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 1460385,
             "language": "Python",
-            "last_commit": "2026-08-24T06:42:28Z",
+            "last_commit": "2026-08-24T14:29:57Z",
             "owner": "scipy",
             "repo": "scipy",
             "stars": 14950
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-24T00:18:53Z",
             "owner": "python-pillow",
             "repo": "Pillow",
-            "stars": 13774
+            "stars": 13775
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-01-29T17:08:43Z",
             "owner": "open-mmlab",
             "repo": "mmcv",
-            "stars": 6468
+            "stars": 6469
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2024-06-24T13:34:47Z",
             "owner": "PyImageSearch",
             "repo": "imutils",
-            "stars": 4591
+            "stars": 4590
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-08-07T19:42:11Z",
             "owner": "image-rs",
             "repo": "image",
-            "stars": 5859
+            "stars": 5860
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2026-07-22T11:59:34Z",
             "owner": "PaddlePaddle",
             "repo": "PaddleOCR",
-            "stars": 88198
+            "stars": 88216
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2026-08-21T23:34:44Z",
             "owner": "huggingface",
             "repo": "pytorch-image-models",
-            "stars": 37087
+            "stars": 37089
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2026-08-21T23:17:05Z",
             "owner": "google-ai-edge",
             "repo": "mediapipe",
-            "stars": 36705
+            "stars": 36709
           }
         },
         {
@@ -312,7 +312,7 @@
             "last_commit": "2024-08-03T01:59:11Z",
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34389
+            "stars": 34390
           }
         },
         {
@@ -342,7 +342,7 @@
             "last_commit": "2026-08-09T12:04:16Z",
             "owner": "Lightning-AI",
             "repo": "pytorch-lightning",
-            "stars": 31304
+            "stars": 31305
           }
         },
         {
@@ -402,7 +402,7 @@
             "last_commit": "2026-08-02T15:23:44Z",
             "owner": "lucidrains",
             "repo": "vit-pytorch",
-            "stars": 25488
+            "stars": 25486
           }
         },
         {
@@ -417,7 +417,7 @@
             "last_commit": "2026-08-17T23:02:36Z",
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24029
+            "stars": 24030
           }
         },
         {
@@ -432,7 +432,7 @@
             "last_commit": "2026-08-18T08:40:18Z",
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23736
+            "stars": 23738
           }
         },
         {
@@ -477,7 +477,7 @@
             "last_commit": "2024-03-12T15:58:25Z",
             "owner": "facebookresearch",
             "repo": "detr",
-            "stars": 15353
+            "stars": 15354
           }
         },
         {
@@ -792,7 +792,7 @@
             "last_commit": "2026-08-22T20:39:30Z",
             "owner": "obss",
             "repo": "sahi",
-            "stars": 5471
+            "stars": 5472
           }
         },
         {
@@ -894,7 +894,7 @@
             "archived": false,
             "id": 631615,
             "language": "C++",
-            "last_commit": "2026-08-24T04:03:36Z",
+            "last_commit": "2026-08-24T11:53:17Z",
             "owner": "Kitware",
             "repo": "VTK",
             "stars": 3198
@@ -999,7 +999,7 @@
             "archived": false,
             "id": 879116,
             "language": "Python",
-            "last_commit": "2026-08-21T09:40:42Z",
+            "last_commit": "2026-08-24T11:24:13Z",
             "owner": "psychopy",
             "repo": "psychopy",
             "stars": 2068
@@ -1188,7 +1188,7 @@
             "last_commit": "2026-03-02T04:42:20Z",
             "owner": "yzhao062",
             "repo": "anomaly-detection-resources",
-            "stars": 9367
+            "stars": 9368
           }
         },
         {
@@ -1218,7 +1218,7 @@
             "last_commit": "2022-07-14T18:02:46Z",
             "owner": "chrieke",
             "repo": "awesome-satellite-imagery-datasets",
-            "stars": 3916
+            "stars": 3915
           }
         },
         {
@@ -1241,7 +1241,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:03:25.849Z",
+    "last_updated": "2026-08-24T14:35:47.024Z",
     "original_repository": "mawady/awesome-computer-vision-resources",
     "original_repository_id": 421797839,
     "original_repository_sha": "62d046030dd49925ae8177083ef66e9ffc7dad7a",
