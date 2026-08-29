@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Computer Vision Library",
+            "homepage": "https://opencv.org",
             "id": 5108051,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T07:53:22Z",
+            "open_issues": 2756,
             "owner": "opencv",
             "repo": "opencv",
-            "stars": 90636
+            "stars": 90640,
+            "topics": [
+              "c-plus-plus",
+              "computer-vision",
+              "deep-learning",
+              "image-processing",
+              "opencv"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -26,12 +37,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SciPy library main repository",
+            "homepage": "https://scipy.org",
             "id": 1460385,
             "language": "Python",
-            "last_commit": "2026-08-28T16:48:53Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-28T20:43:12Z",
+            "open_issues": 1835,
             "owner": "scipy",
             "repo": "scipy",
-            "stars": 14962
+            "stars": 14963,
+            "topics": [
+              "algorithms",
+              "closember",
+              "python",
+              "scientific-computing",
+              "scipy"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -42,12 +64,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python Imaging Library (fork)",
+            "homepage": "https://python-pillow.org",
             "id": 5171600,
             "language": "Python",
-            "last_commit": "2026-08-28T11:06:20Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:32:43Z",
+            "open_issues": 171,
             "owner": "python-pillow",
             "repo": "Pillow",
-            "stars": 13780
+            "stars": 13782,
+            "topics": [
+              "c",
+              "cross-platform",
+              "image",
+              "image-processing",
+              "pil",
+              "pillow",
+              "python",
+              "python-3"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -58,12 +94,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐍 Geometric Computer Vision Library for Spatial AI",
+            "homepage": "https://kornia.readthedocs.io",
             "id": 145693916,
             "language": "Python",
-            "last_commit": "2026-08-28T20:08:00Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:58:40Z",
+            "open_issues": 119,
             "owner": "kornia",
             "repo": "kornia",
-            "stars": 11334
+            "stars": 11334,
+            "topics": [
+              "artificial-intelligence",
+              "computer-vision",
+              "deep-learning",
+              "hacktoberfest",
+              "image-processing",
+              "machine-learning",
+              "neural-network",
+              "python",
+              "pytorch",
+              "robotics",
+              "spatial-ai"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -74,12 +127,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Image processing in Python",
+            "homepage": "https://scikit-image.org",
             "id": 2014929,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T21:40:54Z",
+            "open_issues": 946,
             "owner": "scikit-image",
             "repo": "scikit-image",
-            "stars": 6578
+            "stars": 6579,
+            "topics": [
+              "computer-vision",
+              "image-processing",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -90,12 +152,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenMMLab Computer Vision Foundation",
+            "homepage": "https://mmcv.readthedocs.io/en/latest/",
             "id": 145670155,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-29T17:08:43Z",
+            "open_issues": 460,
             "owner": "open-mmlab",
             "repo": "mmcv",
-            "stars": 6470
+            "stars": 6470,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -106,12 +173,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.",
+            "homepage": null,
             "id": 29104125,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-06-24T13:34:47Z",
+            "open_issues": 162,
             "owner": "PyImageSearch",
             "repo": "imutils",
-            "stars": 4589
+            "stars": 4589,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -122,12 +194,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Open Source Framework for Machine Vision",
+            "homepage": "http://simplecv.org",
             "id": 2217282,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-12-20T19:39:00Z",
+            "open_issues": 121,
             "owner": "sightmachine",
             "repo": "SimpleCV",
-            "stars": 2730
+            "stars": 2730,
+            "topics": [
+              "computer-vision",
+              "cv",
+              "image-processing",
+              "python",
+              "vision",
+              "visionprocessing"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -138,12 +222,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Computer Vision in Python",
+            "homepage": "https://mahotas.rtfd.io",
             "id": 495613,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-12T03:35:16Z",
+            "open_issues": 24,
             "owner": "luispedro",
             "repo": "mahotas",
-            "stars": 890
+            "stars": 890,
+            "topics": [
+              "c-plus-plus",
+              "computer-vision",
+              "numpy",
+              "python",
+              "python-2",
+              "python-3"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -154,12 +250,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pgmagick is a yet another boost.python based wrapper for GraphicsMagick/ImageMagick.",
+            "homepage": null,
             "id": 13718558,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-12T05:44:21Z",
+            "open_issues": 13,
             "owner": "hhatto",
             "repo": "pgmagick",
-            "stars": 160
+            "stars": 160,
+            "topics": [
+              "c-plus-plus",
+              "graphicsmagick",
+              "image-processing",
+              "imagemagick",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         }
@@ -176,12 +283,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Encoding and decoding images in Rust",
+            "homepage": null,
             "id": 20153092,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T07:49:39Z",
+            "open_issues": 225,
             "owner": "image-rs",
             "repo": "image",
-            "stars": 5863
+            "stars": 5863,
+            "topics": [
+              "decoding-images",
+              "pixel",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -192,12 +308,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚡ Rust/WebAssembly image processing library",
+            "homepage": "https://silvia-odwyer.github.io/photon",
             "id": 170569105,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T12:02:31Z",
+            "open_issues": 50,
             "owner": "silvia-odwyer",
             "repo": "photon",
-            "stars": 3885
+            "stars": 3885,
+            "topics": [
+              "hacktoberfest",
+              "image-manipulation",
+              "image-processing",
+              "rust",
+              "rust-library",
+              "wasm",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -208,12 +337,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust bindings for OpenCV",
+            "homepage": null,
             "id": 33914894,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-07-31T06:34:26Z",
+            "open_issues": 17,
             "owner": "twistedfall",
             "repo": "opencv-rust",
-            "stars": 2483
+            "stars": 2483,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -224,12 +358,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Image processing operations",
+            "homepage": null,
             "id": 43258349,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-07-31T20:54:32Z",
+            "open_issues": 86,
             "owner": "image-rs",
             "repo": "imageproc",
-            "stars": 975
+            "stars": 975,
+            "topics": [
+              "image-processing",
+              "imageproc",
+              "rust-library"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         }
@@ -246,12 +389,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+            "homepage": "https://www.paddleocr.com",
             "id": 262296122,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-22T11:59:34Z",
+            "open_issues": 235,
             "owner": "PaddlePaddle",
             "repo": "PaddleOCR",
-            "stars": 88411
+            "stars": 88418,
+            "topics": [
+              "ai4science",
+              "chineseocr",
+              "document-parsing",
+              "document-translation",
+              "kie",
+              "ocr",
+              "paddleocr-vl",
+              "pdf-extractor-rag",
+              "pdf-parser",
+              "pdf2markdown",
+              "pp-ocr",
+              "pp-structure",
+              "rag"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -262,12 +424,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ultralytics YOLOv5 in PyTorch for object detection, instance segmentation, classification, training, and export.",
+            "homepage": "https://docs.ultralytics.com/yolov5/",
             "id": 264818686,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T11:08:25Z",
+            "open_issues": 31,
             "owner": "ultralytics",
             "repo": "yolov5",
-            "stars": 57940
+            "stars": 57942,
+            "topics": [
+              "computer-vision",
+              "coreml",
+              "deep-learning",
+              "image-classification",
+              "inference",
+              "instance-segmentation",
+              "model-export",
+              "model-training",
+              "object-detection",
+              "onnx",
+              "pytorch",
+              "tensorrt",
+              "tflite",
+              "ultralytics",
+              "yolo",
+              "yolov5"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -278,12 +462,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNetV4, MobileNet-V3 & V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, and more",
+            "homepage": "https://huggingface.co/docs/timm",
             "id": 168799526,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T15:05:27Z",
+            "open_issues": 53,
             "owner": "huggingface",
             "repo": "pytorch-image-models",
-            "stars": 37105
+            "stars": 37106,
+            "topics": [
+              "augmix",
+              "convnext",
+              "distributed-training",
+              "efficientnet",
+              "image-classification",
+              "imagenet",
+              "maxvit",
+              "mixnet",
+              "mobile-deep-learning",
+              "mobilenet-v2",
+              "mobilenetv3",
+              "nfnets",
+              "normalization-free-training",
+              "optimizer",
+              "pretrained-models",
+              "pretrained-weights",
+              "pytorch",
+              "randaugment",
+              "resnet",
+              "vision-transformer-models"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -294,12 +504,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform, customizable ML solutions for live and streaming media.",
+            "homepage": "https://ai.google.dev/edge/mediapipe",
             "id": 191820100,
             "language": "C++",
-            "last_commit": "2026-08-28T18:47:13Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:16:10Z",
+            "open_issues": 549,
             "owner": "google-ai-edge",
             "repo": "mediapipe",
-            "stars": 36761
+            "stars": 36762,
+            "topics": [
+              "android",
+              "audio-processing",
+              "c-plus-plus",
+              "calculator",
+              "computer-vision",
+              "deep-learning",
+              "framework",
+              "graph-based",
+              "graph-framework",
+              "inference",
+              "machine-learning",
+              "mediapipe",
+              "mobile-development",
+              "perception",
+              "pipeline-framework",
+              "stream-processing",
+              "video-processing"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -310,12 +543,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.",
+            "homepage": "https://detectron2.readthedocs.io/en/latest/",
             "id": 206660580,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-19T05:38:53Z",
+            "open_issues": 585,
             "owner": "facebookresearch",
             "repo": "detectron2",
-            "stars": 34692
+            "stars": 34692,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -326,12 +564,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation",
+            "homepage": "https://cmu-perceptual-computing-lab.github.io/openpose",
             "id": 89247811,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2024-08-03T01:59:11Z",
+            "open_issues": 359,
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34417
+            "stars": 34417,
+            "topics": [
+              "caffe",
+              "computer-vision",
+              "cpp",
+              "cvpr-2017",
+              "deep-learning",
+              "face",
+              "foot-estimation",
+              "hand-estimation",
+              "human-behavior-understanding",
+              "human-pose",
+              "human-pose-estimation",
+              "keypoint-detection",
+              "keypoints",
+              "machine-learning",
+              "multi-person",
+              "opencv",
+              "openpose",
+              "pose",
+              "pose-estimation",
+              "real-time"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -342,12 +606,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenMMLab Detection Toolbox and Benchmark",
+            "homepage": "https://mmdetection.readthedocs.io",
             "id": 145670234,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-21T02:01:07Z",
+            "open_issues": 1960,
             "owner": "open-mmlab",
             "repo": "mmdetection",
-            "stars": 32894
+            "stars": 32894,
+            "topics": [
+              "cascade-rcnn",
+              "convnext",
+              "detr",
+              "fast-rcnn",
+              "faster-rcnn",
+              "glip",
+              "grounding-dino",
+              "instance-segmentation",
+              "mask-rcnn",
+              "object-detection",
+              "panoptic-segmentation",
+              "pytorch",
+              "retinanet",
+              "rtmdet",
+              "semisupervised-learning",
+              "ssd",
+              "swin-transformer",
+              "transformer",
+              "vision-transformer",
+              "yolo"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -358,12 +648,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.",
+            "homepage": "https://lightning.ai/pytorch-lightning/?utm_source=ptl_readme&utm_medium=referral&utm_campaign=ptl_readme",
             "id": 178626720,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T16:59:45Z",
+            "open_issues": 1079,
             "owner": "Lightning-AI",
             "repo": "pytorch-lightning",
-            "stars": 31315
+            "stars": 31315,
+            "topics": [
+              "ai",
+              "artificial-intelligence",
+              "data-science",
+              "deep-learning",
+              "machine-learning",
+              "python",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -374,12 +677,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.",
+            "homepage": "https://www.jaided.ai",
             "id": 247266215,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-05T12:23:12Z",
+            "open_issues": 530,
             "owner": "JaidedAI",
             "repo": "EasyOCR",
-            "stars": 29945
+            "stars": 29947,
+            "topics": [
+              "cnn",
+              "crnn",
+              "data-mining",
+              "deep-learning",
+              "easyocr",
+              "image-processing",
+              "information-retrieval",
+              "lstm",
+              "machine-learning",
+              "ocr",
+              "optical-character-recognition",
+              "python",
+              "pytorch",
+              "scene-text",
+              "scene-text-recognition"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -390,12 +714,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The fastai deep learning library",
+            "homepage": "http://docs.fast.ai",
             "id": 102973646,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-15T09:18:08Z",
+            "open_issues": 268,
             "owner": "fastai",
             "repo": "fastai",
-            "stars": 28128
+            "stars": 28128,
+            "topics": [
+              "colab",
+              "deep-learning",
+              "fastai",
+              "gpu",
+              "machine-learning",
+              "notebooks",
+              "python",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -406,12 +744,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A game theoretic approach to explain the output of any machine learning model.",
+            "homepage": "https://shap.readthedocs.io",
             "id": 74505259,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-28T20:05:20Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:35:21Z",
+            "open_issues": 1004,
             "owner": "shap",
             "repo": "shap",
-            "stars": 25708
+            "stars": 25709,
+            "topics": [
+              "deep-learning",
+              "explainability",
+              "gradient-boosting",
+              "interpretability",
+              "machine-learning",
+              "shap",
+              "shapley"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -422,12 +773,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch",
+            "homepage": null,
             "id": 300996055,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T19:16:54Z",
+            "open_issues": 142,
             "owner": "lucidrains",
             "repo": "vit-pytorch",
-            "stars": 25493
+            "stars": 25493,
+            "topics": [
+              "artificial-intelligence",
+              "attention-mechanism",
+              "computer-vision",
+              "image-classification",
+              "transformers"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -438,12 +800,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Graph Neural Network Library for PyTorch",
+            "homepage": "https://pyg.org",
             "id": 106024057,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T20:53:29Z",
+            "open_issues": 1317,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24043
+            "stars": 24043,
+            "topics": [
+              "deep-learning",
+              "geometric-deep-learning",
+              "graph-convolutional-networks",
+              "graph-neural-networks",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -454,12 +827,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ncnn is a high-performance neural network inference framework optimized for the mobile platform",
+            "homepage": null,
             "id": 95879426,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T12:35:36Z",
+            "open_issues": 1228,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23762
+            "stars": 23764,
+            "topics": [
+              "android",
+              "arm-neon",
+              "artificial-intelligence",
+              "caffe",
+              "darknet",
+              "deep-learning",
+              "high-preformance",
+              "inference",
+              "ios",
+              "keras",
+              "mlir",
+              "mxnet",
+              "ncnn",
+              "neural-network",
+              "onnx",
+              "pytorch",
+              "riscv",
+              "simd",
+              "tensorflow",
+              "vulkan"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -470,12 +869,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "YOLOv4 / Scaled-YOLOv4 / YOLO - Neural Networks for Object Detection (Windows and Linux version of Darknet )",
+            "homepage": "http://pjreddie.com/darknet/",
             "id": 75388965,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2025-12-15T16:10:05Z",
+            "open_issues": 5438,
             "owner": "AlexeyAB",
             "repo": "darknet",
-            "stars": 22153
+            "stars": 22153,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "deep-learning-tutorial",
+              "deep-neural-networks",
+              "dnn",
+              "neural-network",
+              "object-detection",
+              "scaled-yolov4",
+              "scaledyolov4",
+              "yolo",
+              "yolov3",
+              "yolov4"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -486,12 +903,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bringing Old Photo Back to Life (CVPR 2020 oral)",
+            "homepage": "https://arxiv.org/abs/2004.09484",
             "id": 274594200,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-10-26T08:06:57Z",
+            "open_issues": 109,
             "owner": "microsoft",
             "repo": "Bringing-Old-Photos-Back-to-Life",
-            "stars": 15705
+            "stars": 15705,
+            "topics": [
+              "gans",
+              "generative-adversarial-network",
+              "image-manipulation",
+              "image-restoration",
+              "old-photo-restoration",
+              "photo-restoration",
+              "photos",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -502,12 +933,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "End-to-End Object Detection with Transformers",
+            "homepage": null,
             "id": 267176885,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-12T15:58:25Z",
+            "open_issues": 255,
             "owner": "facebookresearch",
             "repo": "detr",
-            "stars": 15354
+            "stars": 15354,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -518,12 +954,30 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Fast and flexible image augmentation library. Paper about the library: https://www.mdpi.com/2078-2489/11/2/125",
+            "homepage": "https://albumentations.ai",
             "id": 136265021,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-06-25T23:21:43Z",
+            "open_issues": 0,
             "owner": "albumentations-team",
             "repo": "albumentations",
-            "stars": 15315
+            "stars": 15315,
+            "topics": [
+              "augmentation",
+              "deep-learning",
+              "detection",
+              "fast-augmentations",
+              "image-augmentation",
+              "image-classification",
+              "image-processing",
+              "image-segmentation",
+              "machine-learning",
+              "object-detection",
+              "python",
+              "segmentation"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -534,12 +988,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advanced AI Explainability for computer vision.  Support for CNNs, Vision Transformers, Classification, Object detection, Segmentation, Image similarity and more.",
+            "homepage": "https://jacobgil.github.io/pytorch-gradcam-book",
             "id": 92983437,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-13T07:15:26Z",
+            "open_issues": 160,
             "owner": "jacobgil",
             "repo": "pytorch-grad-cam",
-            "stars": 12960
+            "stars": 12960,
+            "topics": [
+              "class-activation-maps",
+              "computer-vision",
+              "deep-learning",
+              "explainable-ai",
+              "explainable-ml",
+              "grad-cam",
+              "image-classification",
+              "interpretability",
+              "interpretable-ai",
+              "interpretable-deep-learning",
+              "machine-learning",
+              "object-detection",
+              "pytorch",
+              "score-cam",
+              "vision-transformers",
+              "visualizations",
+              "xai"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -550,12 +1027,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source library for face detection in images. The face detection speed can reach 1000FPS. ",
+            "homepage": null,
             "id": 29518121,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-28T12:33:49Z",
+            "open_issues": 56,
             "owner": "ShiqiYu",
             "repo": "libfacedetection",
-            "stars": 12784
+            "stars": 12784,
+            "topics": [
+              "arm",
+              "cnn",
+              "face-detection"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -566,12 +1052,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Semantic segmentation models with 500+ pretrained convolutional and transformer-based backbones.",
+            "homepage": "https://smp.readthedocs.io/",
             "id": 173333035,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T06:01:10Z",
+            "open_issues": 82,
             "owner": "qubvel-org",
             "repo": "segmentation_models.pytorch",
-            "stars": 11708
+            "stars": 11709,
+            "topics": [
+              "computer-vision",
+              "deeplab-v3-plus",
+              "deeplabv3",
+              "dpt",
+              "fpn",
+              "image-processing",
+              "image-segmentation",
+              "imagenet",
+              "models",
+              "pretrained-weights",
+              "pspnet",
+              "pytorch",
+              "segformer",
+              "segmentation",
+              "segmentation-models",
+              "semantic-segmentation",
+              "transformers",
+              "unet",
+              "unet-pytorch",
+              "unetplusplus"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -582,12 +1094,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐍 Geometric Computer Vision Library for Spatial AI",
+            "homepage": "https://kornia.readthedocs.io",
             "id": 145693916,
             "language": "Python",
-            "last_commit": "2026-08-28T20:08:00Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:58:40Z",
+            "open_issues": 119,
             "owner": "kornia",
             "repo": "kornia",
-            "stars": 11334
+            "stars": 11334,
+            "topics": [
+              "artificial-intelligence",
+              "computer-vision",
+              "deep-learning",
+              "hacktoberfest",
+              "image-processing",
+              "machine-learning",
+              "neural-network",
+              "python",
+              "pytorch",
+              "robotics",
+              "spatial-ai"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -598,12 +1127,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch",
+            "homepage": null,
             "id": 478823173,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-05-11T19:18:10Z",
+            "open_issues": 73,
             "owner": "lucidrains",
             "repo": "DALLE2-pytorch",
-            "stars": 11306
+            "stars": 11306,
+            "topics": [
+              "artificial-intelligence",
+              "deep-learning",
+              "text-to-image"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -614,12 +1152,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities",
+            "homepage": null,
             "id": 50255244,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2024-05-15T07:48:28Z",
+            "open_issues": 805,
             "owner": "raulmur",
             "repo": "ORB_SLAM2",
-            "stars": 10224
+            "stars": 10224,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -630,12 +1173,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python library for anomaly detection across tabular, time series, graph, text, image, and audio data. 60+ detectors, benchmark-backed ADEngine orchestration, and an agentic workflow for AI agents.",
+            "homepage": "https://pyod.dev/",
             "id": 105699750,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-19T03:12:27Z",
+            "open_issues": 237,
             "owner": "yzhao062",
             "repo": "pyod",
-            "stars": 9977
+            "stars": 9977,
+            "topics": [
+              "agentic-ai",
+              "anomaly-detection",
+              "data-mining",
+              "data-science",
+              "deep-learning",
+              "foundation-models",
+              "fraud-detection",
+              "graph-anomaly-detection",
+              "image-anomaly-detection",
+              "machine-learning",
+              "multimodal",
+              "nlp-anomaly-detection",
+              "novelty-detection",
+              "out-of-distribution-detection",
+              "outlier-detection",
+              "outlier-ensembles",
+              "time-series",
+              "time-series-anomaly-detection",
+              "unsupervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -646,12 +1214,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenMMLab Semantic Segmentation Toolbox and Benchmark.",
+            "homepage": "https://mmsegmentation.readthedocs.io/en/main/",
             "id": 272133018,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-13T08:53:34Z",
+            "open_issues": 869,
             "owner": "open-mmlab",
             "repo": "mmsegmentation",
-            "stars": 9933
+            "stars": 9934,
+            "topics": [
+              "deeplabv3",
+              "image-segmentation",
+              "medical-image-segmentation",
+              "pspnet",
+              "pytorch",
+              "realtime-segmentation",
+              "retinal-vessel-segmentation",
+              "semantic-segmentation",
+              "swin-transformer",
+              "transformer",
+              "vessel-segmentation"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -662,12 +1247,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Best Practices, code samples, and documentation for Computer Vision.",
+            "homepage": null,
             "id": 170161374,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-02-16T23:55:05Z",
+            "open_issues": 113,
             "owner": "microsoft",
             "repo": "computervision-recipes",
-            "stars": 9879
+            "stars": 9879,
+            "topics": [
+              "artificial-intelligence",
+              "azure",
+              "computer-vision",
+              "convolutional-neural-networks",
+              "data-science",
+              "deep-learning",
+              "image-classification",
+              "image-processing",
+              "jupyter-notebook",
+              "kubernetes",
+              "machine-learning",
+              "microsoft",
+              "object-detection",
+              "operationalization",
+              "python",
+              "similarity",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -678,12 +1286,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The code for our newly accepted paper in Pattern Recognition 2020: \"U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection.\"",
+            "homepage": null,
             "id": 261247446,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-26T04:16:45Z",
+            "open_issues": 248,
             "owner": "xuebinqin",
             "repo": "U-2-Net",
-            "stars": 9854
+            "stars": 9855,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "image-background-removal",
+              "image-processing",
+              "image-segmentation",
+              "u-2-net",
+              "u2net"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -694,12 +1315,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!",
+            "homepage": "https://peterl1n.github.io/RobustVideoMatting/",
             "id": 401484223,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-04-02T16:26:48Z",
+            "open_issues": 123,
             "owner": "PeterL1n",
             "repo": "RobustVideoMatting",
-            "stars": 9502
+            "stars": 9505,
+            "topics": [
+              "ai",
+              "computer-vision",
+              "deep-learning",
+              "machine-learning",
+              "matting"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -710,12 +1342,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Matting, 3D Segmentation, etc.",
+            "homepage": "https://arxiv.org/abs/2101.06175",
             "id": 204380779,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-05T16:49:17Z",
+            "open_issues": 29,
             "owner": "PaddlePaddle",
             "repo": "PaddleSeg",
-            "stars": 9385
+            "stars": 9385,
+            "topics": [
+              "autonomous-driving",
+              "human-segmentation",
+              "image-matting",
+              "image-segmentation",
+              "interactive-segmentation",
+              "lane-detection",
+              "medical-image-segmentation",
+              "panoptic-segmentation",
+              "semantic-segmentation",
+              "transformer",
+              "video-segmentation"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -726,12 +1375,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI Toolkit for Healthcare Imaging",
+            "homepage": "https://project-monai.github.io/",
             "id": 214485001,
             "language": "Python",
-            "last_commit": "2026-08-28T17:49:18Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T23:24:40Z",
+            "open_issues": 530,
             "owner": "Project-MONAI",
             "repo": "MONAI",
-            "stars": 8640
+            "stars": 8641,
+            "topics": [
+              "deep-learning",
+              "healthcare-imaging",
+              "medical-image-computing",
+              "medical-image-processing",
+              "monai",
+              "python3",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -742,12 +1404,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch",
+            "homepage": null,
             "id": 495587598,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-10-07T13:00:53Z",
+            "open_issues": 103,
             "owner": "lucidrains",
             "repo": "imagen-pytorch",
-            "stars": 8424
+            "stars": 8425,
+            "topics": [
+              "artificial-intelligence",
+              "deep-learning",
+              "imagination-machine",
+              "text-to-image",
+              "text-to-video"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -758,12 +1431,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytorch implementation of convolutional neural network visualization techniques",
+            "homepage": null,
             "id": 107760466,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-01-01T10:31:10Z",
+            "open_issues": 2,
             "owner": "utkuozbulak",
             "repo": "pytorch-cnn-visualizations",
-            "stars": 8234
+            "stars": 8234,
+            "topics": [
+              "cam",
+              "cnn-visualization",
+              "deep-dream",
+              "grad-cam",
+              "gradient",
+              "gradient-visualization",
+              "guided-backpropagation",
+              "guided-grad-cam",
+              "pytorch",
+              "saliency",
+              "segmentation",
+              "smooth-grad"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -774,12 +1465,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python wrapper for Google Tesseract",
+            "homepage": null,
             "id": 1030255,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-13T19:52:40Z",
+            "open_issues": 21,
             "owner": "madmaze",
             "repo": "pytesseract",
-            "stars": 6384
+            "stars": 6384,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -790,12 +1486,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Real-time face detection and emotion/gender classification using fer2013/imdb datasets with a keras CNN model and openCV.",
+            "homepage": null,
             "id": 81460066,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-03-08T20:04:21Z",
+            "open_issues": 54,
             "owner": "oarriaga",
             "repo": "face_classification",
-            "stars": 5735
+            "stars": 5735,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -806,12 +1507,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Model interpretability and understanding for PyTorch",
+            "homepage": "https://captum.ai",
             "id": 204734444,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T04:38:41Z",
+            "open_issues": 72,
             "owner": "meta-pytorch",
             "repo": "captum",
-            "stars": 5694
+            "stars": 5694,
+            "topics": [
+              "feature-attribution",
+              "feature-importance",
+              "interpretability",
+              "interpretable-ai",
+              "interpretable-ml"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -822,12 +1534,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 Finding duplicate images made easy!",
+            "homepage": "https://idealo.github.io/imagededup/",
             "id": 179674896,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-15T15:19:22Z",
+            "open_issues": 38,
             "owner": "idealo",
             "repo": "imagededup",
-            "stars": 5667
+            "stars": 5667,
+            "topics": [
+              "computer-vision",
+              "e-commerce",
+              "hashing",
+              "idealo",
+              "image-deduplication",
+              "image-preprocessing",
+              "neural-network",
+              "python",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -838,12 +1565,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Framework agnostic sliced/tiled inference + interactive ui + error analysis plots",
+            "homepage": "https://obss.github.io/sahi/",
             "id": 334412452,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-22T20:39:30Z",
+            "open_issues": 1,
             "owner": "obss",
             "repo": "sahi",
-            "stars": 5481
+            "stars": 5482,
+            "topics": [
+              "coco",
+              "computer-vision",
+              "deep-learning",
+              "explainable-ai",
+              "fiftyone",
+              "hacktoberfest",
+              "huggingface",
+              "instance-segmentation",
+              "large-image",
+              "machine-learning",
+              "object-detection",
+              "open-vocabulary-detection",
+              "oriented-object-detection",
+              "python",
+              "pytorch",
+              "remote-sensing",
+              "satellite",
+              "small-object-detection",
+              "tiling",
+              "yolo26"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -854,12 +1607,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Most popular metrics used to evaluate object detection algorithms.",
+            "homepage": null,
             "id": 134606465,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-21T02:38:24Z",
+            "open_issues": 0,
             "owner": "rafaelpadilla",
             "repo": "Object-Detection-Metrics",
-            "stars": 5100
+            "stars": 5100,
+            "topics": [
+              "average-precision",
+              "bounding-boxes",
+              "mean-average-precision",
+              "metrics",
+              "object-detection",
+              "pascal-voc",
+              "precision-recall"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -870,12 +1636,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently.",
+            "homepage": "https://pytorch-ignite.ai",
             "id": 111835796,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T04:51:54Z",
+            "open_issues": 188,
             "owner": "pytorch",
             "repo": "ignite",
-            "stars": 4779
+            "stars": 4779,
+            "topics": [
+              "closember",
+              "deep-learning",
+              "hacktoberfest",
+              "machine-learning",
+              "metrics",
+              "neural-network",
+              "python",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -886,12 +1666,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenMMLab Text Detection, Recognition and Understanding Toolbox",
+            "homepage": "https://mmocr.readthedocs.io/en/dev-1.x/",
             "id": 355559187,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-27T09:38:10Z",
+            "open_issues": 194,
             "owner": "open-mmlab",
             "repo": "mmocr",
-            "stars": 4753
+            "stars": 4753,
+            "topics": [
+              "abcnet",
+              "abinet",
+              "crnn",
+              "dbnet",
+              "deep-learning",
+              "fcenet",
+              "key-information-extraction",
+              "maskrcnn",
+              "ocr",
+              "pan",
+              "panet",
+              "psenet",
+              "pytorch",
+              "sar",
+              "sdmg-r",
+              "segmentation-based-text-recognition",
+              "spts",
+              "svtr",
+              "text-detection",
+              "text-recognition"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -902,12 +1708,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenMMLab Video Perception Toolbox. It supports Video Object Detection (VID), Multiple Object Tracking (MOT), Single Object Tracking (SOT), Video Instance Segmentation (VIS) with a unified framework.",
+            "homepage": "https://mmtracking.readthedocs.io/en/latest/",
             "id": 291213368,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-09-19T07:31:38Z",
+            "open_issues": 277,
             "owner": "open-mmlab",
             "repo": "mmtracking",
-            "stars": 3897
+            "stars": 3897,
+            "topics": [
+              "multi-object-tracking",
+              "single-object-tracking",
+              "tracking",
+              "video-instance-segmentation",
+              "video-object-detection"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -918,12 +1735,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenMMLab Pre-training Toolbox and Benchmark",
+            "homepage": "https://mmpretrain.readthedocs.io/en/latest/",
             "id": 278415292,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-01T06:27:36Z",
+            "open_issues": 273,
             "owner": "open-mmlab",
             "repo": "mmpretrain",
-            "stars": 3851
+            "stars": 3851,
+            "topics": [
+              "beit",
+              "clip",
+              "constrastive-learning",
+              "convnext",
+              "deep-learning",
+              "image-classification",
+              "mae",
+              "masked-image-modeling",
+              "mobilenet",
+              "moco",
+              "multimodal",
+              "pretrained-models",
+              "pytorch",
+              "resnet",
+              "self-supervised-learning",
+              "swin-transformer",
+              "vision-transformer"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -934,12 +1774,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Debugging, monitoring and visualization for Python Machine Learning and Data Science",
+            "homepage": null,
             "id": 186783422,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-03-30T21:27:28Z",
+            "open_issues": 54,
             "owner": "microsoft",
             "repo": "tensorwatch",
-            "stars": 3471
+            "stars": 3471,
+            "topics": [
+              "ai",
+              "data-science",
+              "debug",
+              "debugging",
+              "debugging-tool",
+              "deep-learning",
+              "deeplearning",
+              "explainable-ai",
+              "explainable-ml",
+              "jupyter",
+              "jupyter-notebook",
+              "machine-learning",
+              "machinelearning",
+              "model-visualization",
+              "monitoring",
+              "python",
+              "reinforcement-learning",
+              "saliency"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -950,12 +1814,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mirror of Visualization Toolkit repository",
+            "homepage": "https://gitlab.kitware.com/vtk/vtk",
             "id": 631615,
             "language": "C++",
-            "last_commit": "2026-08-28T14:43:15Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:03:11Z",
+            "open_issues": 0,
             "owner": "Kitware",
             "repo": "VTK",
-            "stars": 3205
+            "stars": 3205,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -966,12 +1835,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Neural network visualization toolkit for keras",
+            "homepage": "https://raghakot.github.io/keras-vis",
             "id": 73519205,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-02-07T16:06:07Z",
+            "open_issues": 116,
             "owner": "raghakot",
             "repo": "keras-vis",
-            "stars": 2991
+            "stars": 2991,
+            "topics": [
+              "deep-learning",
+              "keras",
+              "machine-learning",
+              "neural-networks",
+              "tensorflow",
+              "theano",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -982,12 +1864,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎇 Quickly search over billions of images",
+            "homepage": null,
             "id": 53434551,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-12-06T11:29:04Z",
+            "open_issues": 64,
             "owner": "rhsimplex",
             "repo": "image-match",
-            "stars": 2978
+            "stars": 2978,
+            "topics": [
+              "image-analysis",
+              "image-signatures",
+              "python",
+              "search"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -998,12 +1890,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "腾讯优图高精度双分支人脸检测器",
+            "homepage": null,
             "id": 162380526,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-11-13T03:22:53Z",
+            "open_issues": 68,
             "owner": "Tencent",
             "repo": "FaceDetection-DSFD",
-            "stars": 2969
+            "stars": 2969,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -1014,12 +1911,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Algorithms for explaining machine learning models",
+            "homepage": "https://docs.seldon.io/projects/alibi/en/stable/",
             "id": 172687028,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-10-17T13:23:21Z",
+            "open_issues": 159,
             "owner": "SeldonIO",
             "repo": "alibi",
-            "stars": 2644
+            "stars": 2644,
+            "topics": [
+              "counterfactual",
+              "explanations",
+              "interpretability",
+              "machine-learning",
+              "xai"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -1030,12 +1938,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Algorithms for outlier, adversarial and drift detection",
+            "homepage": "https://docs.seldon.io/projects/alibi-detect/en/stable/",
             "id": 213390927,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2025-12-11T16:35:15Z",
+            "open_issues": 146,
             "owner": "SeldonIO",
             "repo": "alibi-detect",
-            "stars": 2548
+            "stars": 2548,
+            "topics": [
+              "adversarial",
+              "anomaly",
+              "concept-drift",
+              "data-drift",
+              "detection",
+              "drift-detection",
+              "images",
+              "outlier",
+              "semi-supervised-learning",
+              "tabular-data",
+              "text",
+              "time-series",
+              "unsupervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -1046,12 +1973,31 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Convolutional Neural Networks to predict the aesthetic and technical quality of images.",
+            "homepage": "https://idealo.github.io/image-quality-assessment/",
             "id": 137086172,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-12T19:16:31Z",
+            "open_issues": 44,
             "owner": "idealo",
             "repo": "image-quality-assessment",
-            "stars": 2243
+            "stars": 2243,
+            "topics": [
+              "aws",
+              "computer-vision",
+              "convolutional-neural-networks",
+              "deep-learning",
+              "e-commerce",
+              "idealo",
+              "image-quality-assessment",
+              "keras",
+              "machine-learning",
+              "mobilenet",
+              "neural-network",
+              "nima",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -1062,12 +2008,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "For running psychology and neuroscience experiments",
+            "homepage": "http://www.psychopy.org",
             "id": 879116,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-26T14:45:05Z",
+            "open_issues": 169,
             "owner": "psychopy",
             "repo": "psychopy",
-            "stars": 2069
+            "stars": 2069,
+            "topics": [
+              "experiment",
+              "experiment-control",
+              "experimental-design",
+              "linguistics",
+              "neuroscience",
+              "psycholinguistics",
+              "psychology",
+              "psychophysics",
+              "psychopy",
+              "python",
+              "science"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -1078,12 +2041,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "fastdup is a powerful, free tool designed to rapidly generate valuable insights from image and video datasets. It helps enhance the quality of both images and labels, while significantly reducing data operation costs, all with unmatched scalability.",
+            "homepage": "https://docs.visual-layer.com/fastdup_docs_old/First%20Steps/getting-started",
             "id": 491036679,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-23T12:48:46Z",
+            "open_issues": 30,
             "owner": "visual-layer",
             "repo": "fastdup",
-            "stars": 1906
+            "stars": 1907,
+            "topics": [
+              "data-augmentation",
+              "data-curation",
+              "dataset",
+              "deep-learning",
+              "image",
+              "image-analysis",
+              "image-classfication",
+              "image-classification",
+              "image-duplicate-detection",
+              "image-processing",
+              "image-similarity",
+              "machine-learning",
+              "novelty-detection",
+              "object-detection",
+              "outlier-detection",
+              "python",
+              "visual-search",
+              "visualization",
+              "visualization-tools"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -1094,12 +2082,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source toolbox for action understanding based on PyTorch",
+            "homepage": "https://open-mmlab.github.io/",
             "id": 191778243,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-04-08T03:44:50Z",
+            "open_issues": 57,
             "owner": "open-mmlab",
             "repo": "mmaction",
-            "stars": 1876
+            "stars": 1876,
+            "topics": [
+              "action-detection",
+              "action-recognition",
+              "pytorch",
+              "spatial-temporal-action-detection",
+              "temporal-action-detection",
+              "temporal-action-localization",
+              "video-understanding"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -1110,12 +2111,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The WeightWatcher tool for predicting the accuracy of   Deep Neural Networks",
+            "homepage": null,
             "id": 159555286,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-11T16:40:41Z",
+            "open_issues": 120,
             "owner": "CalculatedContent",
             "repo": "WeightWatcher",
-            "stars": 1773
+            "stars": 1773,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -1126,12 +2132,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Insight Toolkit (ITK) -- Official Repository.  ITK builds on a proven, spatially-oriented architecture for processing, segmentation, and registration of scientific images in two, three, or more dimensions.",
+            "homepage": "https://itk.org",
             "id": 800928,
             "language": "C++",
-            "last_commit": "2026-08-28T01:03:10Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T00:51:33Z",
+            "open_issues": 346,
             "owner": "InsightSoftwareConsortium",
             "repo": "ITK",
-            "stars": 1648
+            "stars": 1649,
+            "topics": [
+              "cpp",
+              "hacktoberfest",
+              "image-analysis",
+              "insight-toolkit",
+              "itk",
+              "medical-imaging",
+              "numfocus",
+              "open-science",
+              "open-source",
+              "python",
+              "reproducible-research",
+              "scientific-computing"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -1142,12 +2166,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A toolbox to iNNvestigate neural networks' predictions!",
+            "homepage": null,
             "id": 114153539,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-04-11T14:13:23Z",
+            "open_issues": 61,
             "owner": "albermax",
             "repo": "innvestigate",
-            "stars": 1309
+            "stars": 1309,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -1158,12 +2187,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Pytorch implementation of CutMix regularizer",
+            "homepage": null,
             "id": 189136525,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-09-16T03:47:45Z",
+            "open_issues": 6,
             "owner": "clovaai",
             "repo": "CutMix-PyTorch",
-            "stars": 1251
+            "stars": 1251,
+            "topics": [
+              "augmentation",
+              "cutmix",
+              "iccv2019",
+              "regularization",
+              "transfer-learning"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -1174,12 +2214,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Layers Outputs and Gradients in Keras. Made easy.",
+            "homepage": null,
             "id": 91534719,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-04-07T02:04:56Z",
+            "open_issues": 3,
             "owner": "philipperemy",
             "repo": "keract",
-            "stars": 1059
+            "stars": 1059,
+            "topics": [
+              "deep-learning",
+              "keras",
+              "keras-neural-networks",
+              "keras-tutorials",
+              "keras-visualization",
+              "machine-learning",
+              "mnist",
+              "multi-inputs",
+              "visualize-activations"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -1190,12 +2245,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Industry-strength Computer Vision workflows with Keras",
+            "homepage": null,
             "id": 265079853,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-05T23:54:07Z",
+            "open_issues": 70,
             "owner": "keras-team",
             "repo": "keras-cv",
-            "stars": 1055
+            "stars": 1055,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -1206,12 +2266,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Random Erasing Data Augmentation. Experiments on CIFAR10, CIFAR100 and Fashion-MNIST",
+            "homepage": null,
             "id": 103635160,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-11-08T12:56:54Z",
+            "open_issues": 10,
             "owner": "zhunzhong07",
             "repo": "Random-Erasing",
-            "stars": 735
+            "stars": 735,
+            "topics": [
+              "aaai2020",
+              "data-augmentation",
+              "image-classification",
+              "object-detection",
+              "person-re-identification",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -1222,12 +2294,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Image Aesthetics Toolkit - includes Fisher Vector implementation, AVA (Image Aesthetic Visual Analysis) dataset and fast multi-threaded downloader",
+            "homepage": null,
             "id": 85695666,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-07-06T21:12:18Z",
+            "open_issues": 8,
             "owner": "ylogx",
             "repo": "aesthetics",
-            "stars": 230
+            "stars": 230,
+            "topics": [
+              "aesthetic",
+              "aesthetics",
+              "ava",
+              "dataset",
+              "dataset-creation",
+              "dataset-generation",
+              "datasets",
+              "fisher-vectors",
+              "image",
+              "image-aesthetic-visual-analysis",
+              "image-processing",
+              "live"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         }
@@ -1244,12 +2334,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch. ",
+            "homepage": null,
             "id": 81640848,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-22T04:42:11Z",
+            "open_issues": 3,
             "owner": "ritchieng",
             "repo": "the-incredible-pytorch",
-            "stars": 12637
+            "stars": 12637,
+            "topics": [
+              "deep-learning",
+              "deep-learning-library",
+              "deep-learning-tutorial",
+              "deep-neural-networks",
+              "python",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -1260,12 +2362,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Anomaly detection related books, papers, videos, and toolboxes. Last update late 2025 for LLM and VLM works!",
+            "homepage": null,
             "id": 133717148,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-03-02T04:42:20Z",
+            "open_issues": 14,
             "owner": "yzhao062",
             "repo": "anomaly-detection-resources",
-            "stars": 9370
+            "stars": 9370,
+            "topics": [
+              "anomaly-detection",
+              "awesome",
+              "awesome-list",
+              "data-mining",
+              "fraud",
+              "fraud-detection",
+              "graph-neural-networks",
+              "large-language-models",
+              "llm",
+              "machine-learning",
+              "outlier",
+              "outlier-detection",
+              "outlier-ensembles",
+              "time-series-analysis",
+              "unsupervised-learning",
+              "vlm",
+              "vlms"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -1276,12 +2401,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;",
+            "homepage": null,
             "id": 156818789,
             "language": null,
+            "license": null,
             "last_commit": "2023-02-09T07:02:58Z",
+            "open_issues": 10,
             "owner": "ChanChiChoi",
             "repo": "awesome-Face_Recognition",
-            "stars": 4754
+            "stars": 4754,
+            "topics": [
+              "face-alignment",
+              "face-detection",
+              "face-generation",
+              "face-recognition",
+              "face-reconstruction",
+              "face-retrieval",
+              "face-superresolution",
+              "face-tracking",
+              "face-transfer"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -1292,12 +2432,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🛰️ List of satellite image training datasets with annotations for computer vision and deep learning",
+            "homepage": null,
             "id": 131768562,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-07-14T18:02:46Z",
+            "open_issues": 0,
             "owner": "chrieke",
             "repo": "awesome-satellite-imagery-datasets",
-            "stars": 3914
+            "stars": 3914,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "earth-observation",
+              "instance-segmentation",
+              "machine-learning",
+              "object-detection",
+              "remote-sensing",
+              "satellite-imagery"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         },
@@ -1308,12 +2462,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A comprehensive list of 180+ YouTube Channels for Data Science,  Data Engineering, Machine Learning, Deep learning, Computer Science, programming, software engineering, etc.",
+            "homepage": "https://benthecoder.github.io/yt-channels-DS-AI-ML-CS/",
             "id": 376740449,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-19T13:06:00Z",
+            "open_issues": 1,
             "owner": "benthecoder",
             "repo": "yt-channels-DS-AI-ML-CS",
-            "stars": 1623
+            "stars": 1623,
+            "topics": [
+              "ai",
+              "artificial-intelligence",
+              "awesome",
+              "awesome-list",
+              "coding",
+              "data",
+              "data-analysis",
+              "data-engineering",
+              "data-science",
+              "deep-learning",
+              "machine-learning",
+              "math",
+              "ml",
+              "programming",
+              "python",
+              "resources",
+              "software-engineering",
+              "statistics",
+              "web-development",
+              "youtube"
+            ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
         }
@@ -1322,15 +2502,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:11:46.284Z",
+    "last_updated": "2026-08-29T04:51:47.350Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A structured learning reference for computer vision: from image fundamentals to research frontiers",
+      "homepage": null,
       "id": 421797839,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2026-08-19T08:49:57Z",
+      "open_issues": 0,
       "owner": "mawady",
       "repo": "awesome-computer-vision-resources",
-      "stars": 172
+      "stars": 172,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "computer-science",
+        "computer-vision",
+        "data-science",
+        "deep-learning",
+        "education",
+        "image-processing",
+        "machine-learning"
+      ]
     },
     "original_repository_sha": "62d046030dd49925ae8177083ef66e9ffc7dad7a",
     "enhanced_repository": "enhansome/enhansome-computer-vision-resources",
