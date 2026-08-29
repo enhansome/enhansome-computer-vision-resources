@@ -15,11 +15,11 @@
             "id": 5108051,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T07:53:22Z",
-            "open_issues": 2756,
+            "last_commit": "2026-08-29T11:13:50Z",
+            "open_issues": 2752,
             "owner": "opencv",
             "repo": "opencv",
-            "stars": 90640,
+            "stars": 90638,
             "topics": [
               "c-plus-plus",
               "computer-vision",
@@ -42,11 +42,11 @@
             "id": 1460385,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-28T20:43:12Z",
-            "open_issues": 1835,
+            "last_commit": "2026-08-29T13:30:33Z",
+            "open_issues": 1830,
             "owner": "scipy",
             "repo": "scipy",
-            "stars": 14963,
+            "stars": 14966,
             "topics": [
               "algorithms",
               "closember",
@@ -70,10 +70,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-08-29T04:32:43Z",
-            "open_issues": 171,
+            "open_issues": 175,
             "owner": "python-pillow",
             "repo": "Pillow",
-            "stars": 13782,
+            "stars": 13783,
             "topics": [
               "c",
               "cross-platform",
@@ -99,8 +99,8 @@
             "id": 145693916,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T21:58:40Z",
-            "open_issues": 119,
+            "last_commit": "2026-08-29T13:31:31Z",
+            "open_issues": 121,
             "owner": "kornia",
             "repo": "kornia",
             "stars": 11334,
@@ -231,7 +231,7 @@
             "open_issues": 24,
             "owner": "luispedro",
             "repo": "mahotas",
-            "stars": 890,
+            "stars": 889,
             "topics": [
               "c-plus-plus",
               "computer-vision",
@@ -314,7 +314,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-08-27T12:02:31Z",
-            "open_issues": 50,
+            "open_issues": 49,
             "owner": "silvia-odwyer",
             "repo": "photon",
             "stars": 3885,
@@ -346,7 +346,7 @@
             "open_issues": 17,
             "owner": "twistedfall",
             "repo": "opencv-rust",
-            "stars": 2483,
+            "stars": 2484,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
@@ -398,7 +398,7 @@
             "open_issues": 235,
             "owner": "PaddlePaddle",
             "repo": "PaddleOCR",
-            "stars": 88418,
+            "stars": 88438,
             "topics": [
               "ai4science",
               "chineseocr",
@@ -433,7 +433,7 @@
             "open_issues": 31,
             "owner": "ultralytics",
             "repo": "yolov5",
-            "stars": 57942,
+            "stars": 57939,
             "topics": [
               "computer-vision",
               "coreml",
@@ -513,7 +513,7 @@
             "open_issues": 549,
             "owner": "google-ai-edge",
             "repo": "mediapipe",
-            "stars": 36762,
+            "stars": 36768,
             "topics": [
               "android",
               "audio-processing",
@@ -549,7 +549,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-19T05:38:53Z",
-            "open_issues": 585,
+            "open_issues": 586,
             "owner": "facebookresearch",
             "repo": "detectron2",
             "stars": 34692,
@@ -573,7 +573,7 @@
             "open_issues": 359,
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34417,
+            "stars": 34416,
             "topics": [
               "caffe",
               "computer-vision",
@@ -615,7 +615,7 @@
             "open_issues": 1960,
             "owner": "open-mmlab",
             "repo": "mmdetection",
-            "stars": 32894,
+            "stars": 32895,
             "topics": [
               "cascade-rcnn",
               "convnext",
@@ -686,7 +686,7 @@
             "open_issues": 530,
             "owner": "JaidedAI",
             "repo": "EasyOCR",
-            "stars": 29947,
+            "stars": 29948,
             "topics": [
               "cnn",
               "crnn",
@@ -723,7 +723,7 @@
             "open_issues": 268,
             "owner": "fastai",
             "repo": "fastai",
-            "stars": 28128,
+            "stars": 28127,
             "topics": [
               "colab",
               "deep-learning",
@@ -749,11 +749,11 @@
             "id": 74505259,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-08-29T04:35:21Z",
+            "last_commit": "2026-08-29T09:33:53Z",
             "open_issues": 1004,
             "owner": "shap",
             "repo": "shap",
-            "stars": 25709,
+            "stars": 25710,
             "topics": [
               "deep-learning",
               "explainability",
@@ -782,7 +782,7 @@
             "open_issues": 142,
             "owner": "lucidrains",
             "repo": "vit-pytorch",
-            "stars": 25493,
+            "stars": 25492,
             "topics": [
               "artificial-intelligence",
               "attention-mechanism",
@@ -809,7 +809,7 @@
             "open_issues": 1317,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24043,
+            "stars": 24044,
             "topics": [
               "deep-learning",
               "geometric-deep-learning",
@@ -833,10 +833,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-08-28T12:35:36Z",
-            "open_issues": 1228,
+            "open_issues": 1229,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23764,
+            "stars": 23763,
             "topics": [
               "android",
               "arm-neon",
@@ -878,7 +878,7 @@
             "open_issues": 5438,
             "owner": "AlexeyAB",
             "repo": "darknet",
-            "stars": 22153,
+            "stars": 22152,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1099,8 +1099,8 @@
             "id": 145693916,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T21:58:40Z",
-            "open_issues": 119,
+            "last_commit": "2026-08-29T13:31:31Z",
+            "open_issues": 121,
             "owner": "kornia",
             "repo": "kornia",
             "stars": 11334,
@@ -1136,7 +1136,7 @@
             "open_issues": 73,
             "owner": "lucidrains",
             "repo": "DALLE2-pytorch",
-            "stars": 11306,
+            "stars": 11305,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -1161,7 +1161,7 @@
             "open_issues": 805,
             "owner": "raulmur",
             "repo": "ORB_SLAM2",
-            "stars": 10224,
+            "stars": 10225,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
@@ -1380,11 +1380,11 @@
             "id": 214485001,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T23:24:40Z",
+            "last_commit": "2026-08-29T10:56:19Z",
             "open_issues": 530,
             "owner": "Project-MONAI",
             "repo": "MONAI",
-            "stars": 8641,
+            "stars": 8642,
             "topics": [
               "deep-learning",
               "healthcare-imaging",
@@ -1474,7 +1474,7 @@
             "open_issues": 21,
             "owner": "madmaze",
             "repo": "pytesseract",
-            "stars": 6384,
+            "stars": 6385,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
@@ -1516,7 +1516,7 @@
             "open_issues": 72,
             "owner": "meta-pytorch",
             "repo": "captum",
-            "stars": 5694,
+            "stars": 5695,
             "topics": [
               "feature-attribution",
               "feature-importance",
@@ -2502,7 +2502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:51:47.350Z",
+    "last_updated": "2026-08-29T13:49:59.940Z",
     "original_repository_info": {
       "archived": false,
       "description": "A structured learning reference for computer vision: from image fundamentals to research frontiers",
