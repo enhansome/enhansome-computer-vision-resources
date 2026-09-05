@@ -69,14 +69,14 @@ research.
 
 > Status: ✅ active (updated within 2 years) · ⚠️ legacy (unmaintained but historically useful) · 🗄️ archived (officially abandoned)
 
-* [OpenCV](https://github.com/opencv/opencv) ⭐ 90,711 | 🐛 2,768 | 🌐 C++ | 📅 2026-09-03: Open Source Computer Vision Library · ✅ active
-* [SciPy](https://github.com/scipy/scipy) ⭐ 14,984 | 🐛 1,826 | 🌐 Python | 📅 2026-09-03: Open-source software for mathematics, science, and engineering · ✅ active
-* [Pillow](https://github.com/python-pillow/Pillow) ⭐ 13,799 | 🐛 175 | 🌐 Python | 📅 2026-09-04: The friendly PIL fork (Python Imaging Library) · ✅ active
-* [kornia](https://github.com/kornia/kornia) ⭐ 11,344 | 🐛 125 | 🌐 Python | 📅 2026-09-04: Open source differentiable computer vision library for PyTorch · ✅ active
-* [scikit-image](https://github.com/scikit-image/scikit-image) ⭐ 6,581 | 🐛 946 | 🌐 Python | 📅 2026-09-03: Collection of algorithms for image processing · ✅ active
+* [OpenCV](https://github.com/opencv/opencv) ⭐ 90,718 | 🐛 2,767 | 🌐 C++ | 📅 2026-09-04: Open Source Computer Vision Library · ✅ active
+* [SciPy](https://github.com/scipy/scipy) ⭐ 14,989 | 🐛 1,828 | 🌐 Python | 📅 2026-09-05: Open-source software for mathematics, science, and engineering · ✅ active
+* [Pillow](https://github.com/python-pillow/Pillow) ⭐ 13,799 | 🐛 174 | 🌐 Python | 📅 2026-09-05: The friendly PIL fork (Python Imaging Library) · ✅ active
+* [kornia](https://github.com/kornia/kornia) ⭐ 11,345 | 🐛 133 | 🌐 Python | 📅 2026-09-05: Open source differentiable computer vision library for PyTorch · ✅ active
+* [scikit-image](https://github.com/scikit-image/scikit-image) ⭐ 6,580 | 🐛 947 | 🌐 Python | 📅 2026-09-04: Collection of algorithms for image processing · ✅ active
 * [mmcv](https://github.com/open-mmlab/mmcv) ⭐ 6,469 | 🐛 460 | 🌐 Python | 📅 2026-01-29: OpenMMLab foundational library for computer vision research · ✅ active
 * [imutils](https://github.com/PyImageSearch/imutils) ⭐ 4,589 | 🐛 162 | 🌐 Python | 📅 2024-06-24: Convenience functions for basic image processing operations · ✅ active
-* [SimpleCV](https://github.com/sightmachine/SimpleCV) ⭐ 2,730 | 🐛 121 | 🌐 Python | 📅 2024-12-20: Open Source Framework for Machine Vision · 🗄️ archived
+* [SimpleCV](https://github.com/sightmachine/SimpleCV) ⭐ 2,731 | 🐛 121 | 🌐 Python | 📅 2024-12-20: Open Source Framework for Machine Vision · 🗄️ archived
 * [Mahotas](https://github.com/luispedro/mahotas) ⭐ 889 | 🐛 24 | 🌐 Python | 📅 2026-06-12: Fast computer vision algorithms in Python · ⚠️ legacy
 * [pgmagick](https://github.com/hhatto/pgmagick) ⭐ 160 | 🐛 13 | 🌐 C++ | 📅 2026-08-12: Python wrapper for GraphicsMagick/ImageMagick · ⚠️ legacy
 
@@ -86,8 +86,8 @@ research.
 
 > Status: ✅ active (updated within 2 years) · ⚠️ legacy (unmaintained but historically useful) · 🗄️ archived (officially abandoned)
 
-* [Image](https://github.com/image-rs/image) ⭐ 5,865 | 🐛 227 | 🌐 Rust | 📅 2026-08-28: Encoding and decoding images in Rust · ✅ active
-* [Photon](https://github.com/silvia-odwyer/photon) ⭐ 3,889 | 🐛 49 | 🌐 Rust | 📅 2026-08-27: Rust/WebAssembly image processing library · ⚠️ legacy
+* [Image](https://github.com/image-rs/image) ⭐ 5,866 | 🐛 227 | 🌐 Rust | 📅 2026-08-28: Encoding and decoding images in Rust · ✅ active
+* [Photon](https://github.com/silvia-odwyer/photon) ⭐ 3,889 | 🐛 51 | 🌐 Rust | 📅 2026-08-27: Rust/WebAssembly image processing library · ⚠️ legacy
 * [OpenCV-Rust](https://github.com/twistedfall/opencv-rust) ⭐ 2,487 | 🐛 17 | 🌐 Rust | 📅 2026-07-31: Rust bindings for OpenCV 3.4, 4.x, and 5.x · ✅ active
 * [ImageProc](https://github.com/image-rs/imageproc) ⭐ 975 | 🐛 86 | 🌐 Rust | 📅 2026-08-29: Image processing operations built on the image crate · ✅ active
 
@@ -542,42 +542,42 @@ research.
 
 > Tags: Object Classification `[ObjCls]`, Object Detection `[ObjDet]`, Object Segmentation `[ObjSeg]`, General Library `[GenLib]`, Text Reading / Object Character Recognition `[OCR]`, Action Recognition `[ActRec]`, Object Tracking `[ObjTrk]`, Data Augmentation `[DatAug]`, Simultaneous Localization and Mapping `[SLAM]`, Outlier/Anomaly/Novelty Detection `[NvlDet]`, Content-based Image Retrieval `[CBIR]`, Image Enhancement `[ImgEnh]`, Aesthetic Assessment `[AesAss]`, Explainable Artificial Intelligence `[XAI]`, Text-to-Image Generation `[TexImg]`, Pose Estimation `[PosEst]`, Video Matting `[VidMat]`, Eye Tracking `[EyeTrk]`
 
-* [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) ⭐ 88,857 | 🐛 240 | 🌐 Python | 📅 2026-07-22 `[OCR]` Practical ultra-lightweight OCR system supporting 80+ languages with tools for training and deployment across server, mobile, and IoT devices.
-* [yolov5](https://github.com/ultralytics/yolov5) ⭐ 57,965 | 🐛 31 | 🌐 Python | 📅 2026-09-01 `[ObjDet]` Ultralytics' YOLOv5 object detection framework.
-* [PyTorch image models](https://github.com/rwightman/pytorch-image-models) ⭐ 37,125 | 🐛 55 | 🌐 Python | 📅 2026-09-01 `[ObjCls]` A wide collection of PyTorch image classification models, scripts, and pretrained weights.
-* [MediaPipe](https://github.com/google/mediapipe) ⭐ 36,835 | 🐛 541 | 🌐 C++ | 📅 2026-09-04 `[ObjDet]` `[ObjSeg]` `[ObjTrk]` `[GenLib]` Google's cross-platform framework supporting face detection, hand/pose tracking, object detection, hair segmentation, and more.
-* [detectron2](https://github.com/facebookresearch/detectron2) ⭐ 34,700 | 🐛 589 | 🌐 Python | 📅 2026-08-19 `[ObjDet]` `[ObjSeg]` Facebook FAIR's next-generation platform for object detection, segmentation, and other visual recognition tasks.
-* [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,424 | 🐛 359 | 🌐 C++ | 📅 2024-08-03 `[PosEst]` Real-time multi-person keypoint detection for body, face, hands, and feet.
-* [mmdetection](https://github.com/open-mmlab/mmdetection) ⭐ 32,906 | 🐛 1,962 | 🌐 Python | 📅 2024-08-21 `[ObjDet]` OpenMMLab's image detection toolbox and benchmark.
-* [pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) ⭐ 31,318 | 🐛 1,078 | 🌐 Python | 📅 2026-09-01 `[GenLib]` Lightweight PyTorch wrapper for high-performance AI research.
-* [EasyOCR](https://github.com/JaidedAI/EasyOCR) ⭐ 29,971 | 🐛 530 | 🌐 Python | 📅 2025-12-05 `[OCR]` Ready-to-use OCR supporting 80+ languages and all popular writing scripts.
-* [FastAI](https://github.com/fastai/fastai) ⭐ 28,131 | 🐛 268 | 🌐 Jupyter Notebook | 📅 2026-09-03 `[GenLib]` Library over PyTorch used for learning and practicing machine learning and deep learning.
-* [SHAP](https://github.com/shap/shap) ⭐ 25,728 | 🐛 988 | 🌐 Jupyter Notebook | 📅 2026-09-03 `[XAI]` Game-theoretic approach to explain the output of any machine learning model.
+* [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) ⭐ 88,910 | 🐛 241 | 🌐 Python | 📅 2026-07-22 `[OCR]` Practical ultra-lightweight OCR system supporting 80+ languages with tools for training and deployment across server, mobile, and IoT devices.
+* [yolov5](https://github.com/ultralytics/yolov5) ⭐ 57,970 | 🐛 31 | 🌐 Python | 📅 2026-09-01 `[ObjDet]` Ultralytics' YOLOv5 object detection framework.
+* [PyTorch image models](https://github.com/rwightman/pytorch-image-models) ⭐ 37,127 | 🐛 55 | 🌐 Python | 📅 2026-09-01 `[ObjCls]` A wide collection of PyTorch image classification models, scripts, and pretrained weights.
+* [MediaPipe](https://github.com/google/mediapipe) ⭐ 36,848 | 🐛 541 | 🌐 C++ | 📅 2026-09-05 `[ObjDet]` `[ObjSeg]` `[ObjTrk]` `[GenLib]` Google's cross-platform framework supporting face detection, hand/pose tracking, object detection, hair segmentation, and more.
+* [detectron2](https://github.com/facebookresearch/detectron2) ⭐ 34,701 | 🐛 589 | 🌐 Python | 📅 2026-08-19 `[ObjDet]` `[ObjSeg]` Facebook FAIR's next-generation platform for object detection, segmentation, and other visual recognition tasks.
+* [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,425 | 🐛 359 | 🌐 C++ | 📅 2024-08-03 `[PosEst]` Real-time multi-person keypoint detection for body, face, hands, and feet.
+* [mmdetection](https://github.com/open-mmlab/mmdetection) ⭐ 32,907 | 🐛 1,962 | 🌐 Python | 📅 2024-08-21 `[ObjDet]` OpenMMLab's image detection toolbox and benchmark.
+* [pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) ⭐ 31,318 | 🐛 1,080 | 🌐 Python | 📅 2026-09-01 `[GenLib]` Lightweight PyTorch wrapper for high-performance AI research.
+* [EasyOCR](https://github.com/JaidedAI/EasyOCR) ⭐ 29,976 | 🐛 530 | 🌐 Python | 📅 2025-12-05 `[OCR]` Ready-to-use OCR supporting 80+ languages and all popular writing scripts.
+* [FastAI](https://github.com/fastai/fastai) ⭐ 28,133 | 🐛 268 | 🌐 Jupyter Notebook | 📅 2026-09-03 `[GenLib]` Library over PyTorch used for learning and practicing machine learning and deep learning.
+* [SHAP](https://github.com/shap/shap) ⭐ 25,727 | 🐛 981 | 🌐 Jupyter Notebook | 📅 2026-09-03 `[XAI]` Game-theoretic approach to explain the output of any machine learning model.
 * [vit-pytorch](https://github.com/lucidrains/vit-pytorch) ⭐ 25,498 | 🐛 142 | 🌐 Python | 📅 2026-09-03 `[ObjCls]` SOTA implementations of vision transformers in PyTorch.
-* [pytorch\_geometric](https://github.com/pyg-team/pytorch_geometric) ⭐ 24,062 | 🐛 1,321 | 🌐 Python | 📅 2026-09-01 `[GenLib]` Graph Neural Network Library for PyTorch.
-* [ncnn](https://github.com/Tencent/ncnn) ⭐ 23,783 | 🐛 1,246 | 🌐 C++ | 📅 2026-09-04 `[GenLib]` Tencent's high-performance neural network inference framework optimized for mobile platforms.
+* [pytorch\_geometric](https://github.com/pyg-team/pytorch_geometric) ⭐ 24,064 | 🐛 1,322 | 🌐 Python | 📅 2026-09-01 `[GenLib]` Graph Neural Network Library for PyTorch.
+* [ncnn](https://github.com/Tencent/ncnn) ⭐ 23,785 | 🐛 1,246 | 🌐 C++ | 📅 2026-09-04 `[GenLib]` Tencent's high-performance neural network inference framework optimized for mobile platforms.
 * [darknet](https://github.com/AlexeyAB/darknet) ⭐ 22,149 | 🐛 5,438 | 🌐 C | 📅 2025-12-15 `[ObjDet]` YOLOv4 / Scaled-YOLOv4 / YOLOv3 / YOLOv2 implementations.
 * [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) ⭐ 15,715 | 🐛 109 | 🌐 Python | 📅 2023-10-26 `[ImgEnh]` Microsoft's CVPR 2020 oral paper implementation for restoring old and damaged photos.
 * [detr](https://github.com/facebookresearch/detr) ⚠️ Archived `[ObjDet]` Facebook's end-to-end object detection with transformers.
 * [albumentations](https://github.com/albumentations-team/albumentations) ⚠️ Archived `[DatAug]` Fast image augmentation library with an easy-to-use wrapper around other libraries.
 * [pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam) ⭐ 12,964 | 🐛 160 | 🌐 Python | 📅 2026-08-13 `[XAI]` Advanced AI explainability for computer vision in PyTorch.
 * [libfacedetection](https://github.com/ShiqiYu/libfacedetection) ⭐ 12,784 | 🐛 56 | 🌐 C++ | 📅 2026-06-28 `[ObjDet]` Open source library for face detection in images, achieving \~1000FPS.
-* [segmentation\_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch) ⭐ 11,719 | 🐛 82 | 🌐 Python | 📅 2026-09-01 `[ObjSeg]` PyTorch segmentation models with pretrained backbones.
-* [kornia](https://github.com/kornia/kornia) ⭐ 11,344 | 🐛 125 | 🌐 Python | 📅 2026-09-04 `[GenLib]` Open source differentiable computer vision library.
+* [segmentation\_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch) ⭐ 11,720 | 🐛 82 | 🌐 Python | 📅 2026-09-01 `[ObjSeg]` PyTorch segmentation models with pretrained backbones.
+* [kornia](https://github.com/kornia/kornia) ⭐ 11,345 | 🐛 133 | 🌐 Python | 📅 2026-09-05 `[GenLib]` Open source differentiable computer vision library.
 * [DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) ⭐ 11,301 | 🐛 73 | 🌐 Python | 📅 2024-05-11 `[TexImg]` PyTorch implementation of OpenAI's DALL-E 2 text-to-image synthesis network.
-* [ORB\_SLAM2](https://github.com/raulmur/ORB_SLAM2) ⭐ 10,231 | 🐛 806 | 🌐 C++ | 📅 2024-05-15 `[SLAM]` Real-time SLAM for monocular, stereo and RGB-D cameras with loop detection and relocalization.
-* [pyod](https://github.com/yzhao062/pyod) ⭐ 9,981 | 🐛 240 | 🌐 Python | 📅 2026-08-19 `[NvlDet]` Python toolbox for scalable outlier and anomaly detection.
-* [mmsegmentation](https://github.com/open-mmlab/mmsegmentation) ⭐ 9,938 | 🐛 869 | 🌐 Python | 📅 2024-08-13 `[ObjSeg]` OpenMMLab's semantic segmentation toolbox and benchmark.
+* [ORB\_SLAM2](https://github.com/raulmur/ORB_SLAM2) ⭐ 10,230 | 🐛 806 | 🌐 C++ | 📅 2024-05-15 `[SLAM]` Real-time SLAM for monocular, stereo and RGB-D cameras with loop detection and relocalization.
+* [pyod](https://github.com/yzhao062/pyod) ⭐ 9,982 | 🐛 241 | 🌐 Python | 📅 2026-08-19 `[NvlDet]` Python toolbox for scalable outlier and anomaly detection.
+* [mmsegmentation](https://github.com/open-mmlab/mmsegmentation) ⭐ 9,940 | 🐛 869 | 🌐 Python | 📅 2024-08-13 `[ObjSeg]` OpenMMLab's semantic segmentation toolbox and benchmark.
 * [computervision-recipes](https://github.com/microsoft/computervision-recipes) ⭐ 9,878 | 🐛 113 | 🌐 Jupyter Notebook | 📅 2024-02-16 `[GenLib]` Microsoft's best practices, code samples, and documentation for Computer Vision.
-* [U-2-Net](https://github.com/xuebinqin/U-2-Net) ⭐ 9,857 | 🐛 248 | 🌐 Python | 📅 2024-06-26 `[ObjDet]` U²-Net: nested U-structure architecture for salient object detection.
+* [U-2-Net](https://github.com/xuebinqin/U-2-Net) ⭐ 9,859 | 🐛 248 | 🌐 Python | 📅 2024-06-26 `[ObjDet]` U²-Net: nested U-structure architecture for salient object detection.
 * [RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) ⭐ 9,511 | 🐛 123 | 🌐 Python | 📅 2024-04-02 `[VidMat]` Robust video matting supporting PyTorch, TensorFlow, ONNX, and CoreML.
 * [PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg) ⭐ 9,386 | 🐛 29 | 🌐 Python | 📅 2026-02-05 `[ObjSeg]` Easy-to-use image segmentation library supporting semantic, interactive, panoptic, and 3D segmentation among others.
-* [MONAI](https://github.com/Project-MONAI/MONAI) ⭐ 8,653 | 🐛 533 | 🌐 Python | 📅 2026-09-03 `[GenLib]` PyTorch-based, open-source framework for deep learning in healthcare imaging.
+* [MONAI](https://github.com/Project-MONAI/MONAI) ⭐ 8,653 | 🐛 537 | 🌐 Python | 📅 2026-09-04 `[GenLib]` PyTorch-based, open-source framework for deep learning in healthcare imaging.
 * [imagen-pytorch](https://github.com/lucidrains/imagen-pytorch) ⭐ 8,424 | 🐛 104 | 🌐 Python | 📅 2024-10-07 `[TexImg]` PyTorch implementation of Google's Imagen text-to-image neural network.
 * [pytorch-cnn-visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations) ⭐ 8,236 | 🐛 2 | 🌐 Python | 📅 2025-01-01 `[XAI]` PyTorch implementations of convolutional neural network visualization techniques.
-* [pytesseract](https://github.com/madmaze/pytesseract) ⭐ 6,386 | 🐛 21 | 🌐 Python | 📅 2026-07-13 `[OCR]` A Python wrapper for Google's Tesseract OCR engine.
+* [pytesseract](https://github.com/madmaze/pytesseract) ⭐ 6,387 | 🐛 21 | 🌐 Python | 📅 2026-07-13 `[OCR]` A Python wrapper for Google's Tesseract OCR engine.
 * [face\_classification](https://github.com/oarriaga/face_classification) ⭐ 5,734 | 🐛 54 | 🌐 Python | 📅 2024-03-08 `[ObjCls]` `[ObjDet]` Real-time face detection and emotion/gender classification.
-* [Captum](https://github.com/pytorch/captum) ⭐ 5,697 | 🐛 73 | 🌐 Python | 📅 2026-09-03 `[XAI]` PyTorch team's library for model interpretability and understanding.
+* [Captum](https://github.com/pytorch/captum) ⭐ 5,700 | 🐛 72 | 🌐 Python | 📅 2026-09-04 `[XAI]` PyTorch team's library for model interpretability and understanding.
 * [imagededup](https://github.com/idealo/imagededup) ⭐ 5,666 | 🐛 39 | 🌐 Python | 📅 2025-08-15 `[CBIR]` Simple tool to find and remove duplicate images from datasets.
 * [SAHI](https://github.com/obss/sahi) ⭐ 5,493 | 🐛 1 | 🌐 Python | 📅 2026-09-03 `[ObjDet]` `[ObjSeg]` Lightweight vision library for large-scale object detection and instance segmentation.
 * [Object-Detection-Metrics](https://github.com/rafaelpadilla/Object-Detection-Metrics) ⭐ 5,100 | 🐛 1 | 🌐 Python | 📅 2026-09-01 `[ObjDet]` The most popular metrics used to evaluate object detection algorithms.
@@ -586,20 +586,20 @@ research.
 * [mmtracking](https://github.com/open-mmlab/mmtracking) ⭐ 3,900 | 🐛 277 | 🌐 Python | 📅 2023-09-19 `[ObjTrk]` OpenMMLab's video perception toolbox for object detection and tracking.
 * [mmclassification](https://github.com/open-mmlab/mmclassification) ⭐ 3,850 | 🐛 273 | 🌐 Python | 📅 2024-11-01 `[ObjCls]` OpenMMLab's image classification toolbox and benchmark.
 * [TensorWatch](https://github.com/microsoft/tensorwatch) ⭐ 3,472 | 🐛 54 | 🌐 Jupyter Notebook | 📅 2026-03-30 `[XAI]` Microsoft's debugging, monitoring, and visualization tool for Python ML and data science.
-* [VTK](https://github.com/Kitware/VTK) ⭐ 3,206 | 🐛 0 | 🌐 C++ | 📅 2026-09-04 `[GenLib]` Open-source software system for image processing, 3D graphics, volume rendering and visualization.
+* [VTK](https://github.com/Kitware/VTK) ⭐ 3,206 | 🐛 0 | 🌐 C++ | 📅 2026-09-05 `[GenLib]` Open-source software system for image processing, 3D graphics, volume rendering and visualization.
 * [keras-vis](https://github.com/raghakot/keras-vis) ⭐ 2,991 | 🐛 116 | 🌐 Python | 📅 2022-02-07 `[XAI]` Neural network visualization toolkit for Keras.
 * [image-match](https://github.com/ProvenanceLabs/image-match) ⭐ 2,978 | 🐛 64 | 🌐 Python | 📅 2022-12-06 `[CBIR]` Fast image retrieval system capable of searching over billions of images.
-* [FaceDetection-DSFD](https://github.com/Tencent/FaceDetection-DSFD) ⭐ 2,971 | 🐛 68 | 🌐 Python | 📅 2025-11-13 `[ObjDet]` Tencent's state-of-the-art face detector.
+* [FaceDetection-DSFD](https://github.com/Tencent/FaceDetection-DSFD) ⭐ 2,972 | 🐛 68 | 🌐 Python | 📅 2025-11-13 `[ObjDet]` Tencent's state-of-the-art face detector.
 * [Alibi](https://github.com/SeldonIO/alibi) ⭐ 2,644 | 🐛 159 | 🌐 Python | 📅 2025-10-17 `[XAI]` Algorithms for explaining machine learning models.
 * [alibi-detect](https://github.com/SeldonIO/alibi-detect) ⭐ 2,548 | 🐛 146 | 🌐 Jupyter Notebook | 📅 2025-12-11 `[NvlDet]` Algorithms for outlier, adversarial, and drift detection.
 * [image-quality-assessment](https://github.com/idealo/image-quality-assessment) ⚠️ Archived `[AesAss]` Idealo's NIMA model to predict the aesthetic and technical quality of images.
-* [PsychoPy](https://github.com/psychopy/psychopy) ⭐ 2,070 | 🐛 173 | 🌐 Python | 📅 2026-09-04 `[EyeTrk]` Library for running psychology and neuroscience experiments.
+* [PsychoPy](https://github.com/psychopy/psychopy) ⭐ 2,071 | 🐛 174 | 🌐 Python | 📅 2026-09-04 `[EyeTrk]` Library for running psychology and neuroscience experiments.
 * [fastdup](https://github.com/visual-layer/fastdup) ⭐ 1,906 | 🐛 30 | 🌐 Python | 📅 2026-08-23 `[NvlDet]` `[CBIR]` Unsupervised and free tool for image and video dataset analysis.
 * [mmaction](https://github.com/open-mmlab/mmaction) ⭐ 1,876 | 🐛 57 | 🌐 Python | 📅 2022-04-08 `[ActRec]` OpenMMLab's open-source toolbox for action understanding based on PyTorch.
 * [WeightWatcher](https://github.com/CalculatedContent/WeightWatcher) ⭐ 1,774 | 🐛 120 | 🌐 Python | 📅 2026-05-11 `[XAI]` Open-source diagnostic tool for analyzing deep neural networks without needing training or test data.
-* [ITK](https://github.com/InsightSoftwareConsortium/ITK) ⭐ 1,652 | 🐛 350 | 🌐 C++ | 📅 2026-09-04 `[GenLib]` Open-source, cross-platform toolkit for N-dimensional scientific image processing, segmentation, and registration.
+* [ITK](https://github.com/InsightSoftwareConsortium/ITK) ⭐ 1,653 | 🐛 347 | 🌐 C++ | 📅 2026-09-05 `[GenLib]` Open-source, cross-platform toolkit for N-dimensional scientific image processing, segmentation, and registration.
 * [iNNvestigate](https://github.com/albermax/innvestigate) ⭐ 1,308 | 🐛 61 | 🌐 Python | 📅 2025-04-11 `[XAI]` TensorFlow toolbox for investigating neural network predictions.
-* [CutMix-PyTorch](https://github.com/clovaai/CutMix-PyTorch) ⭐ 1,250 | 🐛 6 | 🌐 Python | 📅 2020-09-16 `[DatAug]` Official PyTorch implementation of the CutMix regularizer.
+* [CutMix-PyTorch](https://github.com/clovaai/CutMix-PyTorch) ⭐ 1,251 | 🐛 6 | 🌐 Python | 📅 2020-09-16 `[DatAug]` Official PyTorch implementation of the CutMix regularizer.
 * [Keract](https://github.com/philipperemy/keract) ⭐ 1,059 | 🐛 3 | 🌐 Python | 📅 2025-04-07 `[XAI]` Keras tool for extracting layer outputs and gradients.
 * [keras-cv](https://github.com/keras-team/keras-cv) ⚠️ Archived `[GenLib]` Library of modular computer vision oriented Keras components.
 * [Random-Erasing](https://github.com/zhunzhong07/Random-Erasing) ⭐ 735 | 🐛 10 | 🌐 Python | 📅 2023-11-08 `[DatAug]` Random erasing data augmentation implemented in PyTorch.
@@ -758,7 +758,7 @@ Suggestions and pull requests are welcome. Please check [CONTRIBUTING.md](CONTRI
 
 ## Thanks
 
-* [the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) ⭐ 12,638 | 🐛 3 | 📅 2026-07-22, Curated list of tutorials, papers, projects, communities and more relating to PyTorch
+* [the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) ⭐ 12,637 | 🐛 3 | 📅 2026-07-22, Curated list of tutorials, papers, projects, communities and more relating to PyTorch
 * [anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources) ⭐ 9,377 | 🐛 14 | 🌐 Python | 📅 2026-03-02, Anomaly detection related books, papers, videos, and toolboxes
 * [awesome-Face\_Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition) ⭐ 4,756 | 🐛 10 | 📅 2023-02-09, Computer vision papers about faces.
 * [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) ⚠️ Archived List of satellite image training datasets with annotations for computer vision and deep learning
@@ -769,4 +769,4 @@ Suggestions and pull requests are welcome. Please check [CONTRIBUTING.md](CONTRI
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
