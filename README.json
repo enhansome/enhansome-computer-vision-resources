@@ -15,11 +15,11 @@
             "id": 5108051,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T14:56:08Z",
-            "open_issues": 2860,
+            "last_commit": "2026-11-02T09:18:41Z",
+            "open_issues": 2873,
             "owner": "opencv",
             "repo": "opencv",
-            "stars": 91402,
+            "stars": 91412,
             "topics": [
               "c-plus-plus",
               "computer-vision",
@@ -42,11 +42,11 @@
             "id": 1460385,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-01T13:51:26Z",
-            "open_issues": 1892,
+            "last_commit": "2026-11-02T11:28:11Z",
+            "open_issues": 1894,
             "owner": "scipy",
             "repo": "scipy",
-            "stars": 15174,
+            "stars": 15178,
             "topics": [
               "algorithms",
               "closember",
@@ -69,11 +69,11 @@
             "id": 5171600,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-01T12:35:10Z",
-            "open_issues": 138,
+            "last_commit": "2026-11-02T17:45:48Z",
+            "open_issues": 132,
             "owner": "python-pillow",
             "repo": "Pillow",
-            "stars": 13956,
+            "stars": 13960,
             "topics": [
               "c",
               "cross-platform",
@@ -99,11 +99,11 @@
             "id": 145693916,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-01T05:07:12Z",
-            "open_issues": 141,
+            "last_commit": "2026-11-02T17:08:49Z",
+            "open_issues": 139,
             "owner": "kornia",
             "repo": "kornia",
-            "stars": 11633,
+            "stars": 12067,
             "topics": [
               "artificial-intelligence",
               "computer-vision",
@@ -133,10 +133,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-30T19:24:06Z",
-            "open_issues": 961,
+            "open_issues": 964,
             "owner": "scikit-image",
             "repo": "scikit-image",
-            "stars": 6629,
+            "stars": 6630,
             "topics": [
               "computer-vision",
               "image-processing",
@@ -289,10 +289,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-15T18:09:16Z",
-            "open_issues": 245,
+            "open_issues": 244,
             "owner": "image-rs",
             "repo": "image",
-            "stars": 5901,
+            "stars": 5902,
             "topics": [
               "decoding-images",
               "pixel",
@@ -346,7 +346,7 @@
             "open_issues": 16,
             "owner": "twistedfall",
             "repo": "opencv-rust",
-            "stars": 2498,
+            "stars": 2499,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
@@ -395,10 +395,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-16T03:31:50Z",
-            "open_issues": 262,
+            "open_issues": 264,
             "owner": "PaddlePaddle",
             "repo": "PaddleOCR",
-            "stars": 92066,
+            "stars": 92138,
             "topics": [
               "ai4science",
               "chineseocr",
@@ -430,10 +430,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-11-01T14:05:36Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "ultralytics",
             "repo": "yolov5",
-            "stars": 58248,
+            "stars": 58246,
             "topics": [
               "computer-vision",
               "coreml",
@@ -467,11 +467,11 @@
             "id": 191820100,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T03:49:05Z",
-            "open_issues": 277,
+            "last_commit": "2026-11-02T16:30:09Z",
+            "open_issues": 278,
             "owner": "google-ai-edge",
             "repo": "mediapipe",
-            "stars": 37498,
+            "stars": 37521,
             "topics": [
               "android",
               "audio-processing",
@@ -510,7 +510,7 @@
             "open_issues": 17,
             "owner": "huggingface",
             "repo": "pytorch-image-models",
-            "stars": 37262,
+            "stars": 37263,
             "topics": [
               "augmix",
               "convnext",
@@ -552,7 +552,7 @@
             "open_issues": 594,
             "owner": "facebookresearch",
             "repo": "detectron2",
-            "stars": 34959,
+            "stars": 34965,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
@@ -573,7 +573,7 @@
             "open_issues": 360,
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34550,
+            "stars": 34552,
             "topics": [
               "caffe",
               "computer-vision",
@@ -615,7 +615,7 @@
             "open_issues": 1967,
             "owner": "open-mmlab",
             "repo": "mmdetection",
-            "stars": 33021,
+            "stars": 33022,
             "topics": [
               "cascade-rcnn",
               "convnext",
@@ -654,10 +654,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-30T08:08:36Z",
-            "open_issues": 1176,
+            "open_issues": 1196,
             "owner": "Lightning-AI",
             "repo": "pytorch-lightning",
-            "stars": 31434,
+            "stars": 31440,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -686,7 +686,7 @@
             "open_issues": 534,
             "owner": "JaidedAI",
             "repo": "EasyOCR",
-            "stars": 30125,
+            "stars": 30121,
             "topics": [
               "cnn",
               "crnn",
@@ -723,7 +723,7 @@
             "open_issues": 282,
             "owner": "fastai",
             "repo": "fastai",
-            "stars": 28255,
+            "stars": 28256,
             "topics": [
               "colab",
               "deep-learning",
@@ -749,11 +749,11 @@
             "id": 74505259,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-11-01T06:20:51Z",
-            "open_issues": 995,
+            "last_commit": "2026-11-01T20:09:32Z",
+            "open_issues": 1002,
             "owner": "shap",
             "repo": "shap",
-            "stars": 25840,
+            "stars": 25845,
             "topics": [
               "deep-learning",
               "explainability",
@@ -782,7 +782,7 @@
             "open_issues": 151,
             "owner": "lucidrains",
             "repo": "vit-pytorch",
-            "stars": 25554,
+            "stars": 25555,
             "topics": [
               "artificial-intelligence",
               "attention-mechanism",
@@ -809,7 +809,7 @@
             "open_issues": 1385,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24130,
+            "stars": 24131,
             "topics": [
               "deep-learning",
               "geometric-deep-learning",
@@ -832,11 +832,11 @@
             "id": 95879426,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-30T11:26:42Z",
-            "open_issues": 1315,
+            "last_commit": "2026-11-02T08:46:25Z",
+            "open_issues": 1306,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 24015,
+            "stars": 24023,
             "topics": [
               "android",
               "arm-neon",
@@ -878,7 +878,7 @@
             "open_issues": 5448,
             "owner": "AlexeyAB",
             "repo": "darknet",
-            "stars": 22136,
+            "stars": 22135,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -942,7 +942,7 @@
             "open_issues": 255,
             "owner": "facebookresearch",
             "repo": "detr",
-            "stars": 15348,
+            "stars": 15347,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
@@ -963,7 +963,7 @@
             "open_issues": 0,
             "owner": "albumentations-team",
             "repo": "albumentations",
-            "stars": 15303,
+            "stars": 15300,
             "topics": [
               "augmentation",
               "deep-learning",
@@ -997,7 +997,7 @@
             "open_issues": 166,
             "owner": "jacobgil",
             "repo": "pytorch-grad-cam",
-            "stars": 13003,
+            "stars": 13005,
             "topics": [
               "class-activation-maps",
               "computer-vision",
@@ -1036,11 +1036,44 @@
             "open_issues": 56,
             "owner": "ShiqiYu",
             "repo": "libfacedetection",
-            "stars": 12811,
+            "stars": 12813,
             "topics": [
               "arm",
               "cnn",
               "face-detection"
+            ]
+          },
+          "first_seen": "2026-08-28T20:11:46.284Z"
+        },
+        {
+          "node_type": "item",
+          "title": "kornia",
+          "description": "Open source differentiable computer vision library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🐍 Geometric Computer Vision Library for Spatial AI",
+            "homepage": "https://kornia.readthedocs.io",
+            "id": 145693916,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-02T17:08:49Z",
+            "open_issues": 139,
+            "owner": "kornia",
+            "repo": "kornia",
+            "stars": 12067,
+            "topics": [
+              "artificial-intelligence",
+              "computer-vision",
+              "deep-learning",
+              "hacktoberfest",
+              "image-processing",
+              "machine-learning",
+              "neural-network",
+              "python",
+              "pytorch",
+              "robotics",
+              "spatial-ai"
             ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
@@ -1057,7 +1090,7 @@
             "id": 173333035,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-30T01:43:36Z",
+            "last_commit": "2026-11-02T07:42:09Z",
             "open_issues": 85,
             "owner": "qubvel-org",
             "repo": "segmentation_models.pytorch",
@@ -1089,39 +1122,6 @@
         },
         {
           "node_type": "item",
-          "title": "kornia",
-          "description": "Open source differentiable computer vision library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🐍 Geometric Computer Vision Library for Spatial AI",
-            "homepage": "https://kornia.readthedocs.io",
-            "id": 145693916,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-11-01T05:07:12Z",
-            "open_issues": 141,
-            "owner": "kornia",
-            "repo": "kornia",
-            "stars": 11633,
-            "topics": [
-              "artificial-intelligence",
-              "computer-vision",
-              "deep-learning",
-              "hacktoberfest",
-              "image-processing",
-              "machine-learning",
-              "neural-network",
-              "python",
-              "pytorch",
-              "robotics",
-              "spatial-ai"
-            ]
-          },
-          "first_seen": "2026-08-28T20:11:46.284Z"
-        },
-        {
-          "node_type": "item",
           "title": "DALLE2-pytorch",
           "description": "PyTorch implementation of OpenAI's DALL-E 2 text-to-image synthesis network.",
           "children": [],
@@ -1136,7 +1136,7 @@
             "open_issues": 73,
             "owner": "lucidrains",
             "repo": "DALLE2-pytorch",
-            "stars": 11304,
+            "stars": 11306,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -1161,7 +1161,7 @@
             "open_issues": 806,
             "owner": "raulmur",
             "repo": "ORB_SLAM2",
-            "stars": 10270,
+            "stars": 10271,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
@@ -1182,7 +1182,7 @@
             "open_issues": 227,
             "owner": "yzhao062",
             "repo": "pyod",
-            "stars": 10071,
+            "stars": 10073,
             "topics": [
               "agentic-ai",
               "anomaly-detection",
@@ -1223,7 +1223,7 @@
             "open_issues": 871,
             "owner": "open-mmlab",
             "repo": "mmsegmentation",
-            "stars": 9986,
+            "stars": 9987,
             "topics": [
               "deeplabv3",
               "image-segmentation",
@@ -1236,6 +1236,35 @@
               "swin-transformer",
               "transformer",
               "vessel-segmentation"
+            ]
+          },
+          "first_seen": "2026-08-28T20:11:46.284Z"
+        },
+        {
+          "node_type": "item",
+          "title": "U-2-Net",
+          "description": "U²-Net: nested U-structure architecture for salient object detection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The code for our newly accepted paper in Pattern Recognition 2020: \"U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection.\"",
+            "homepage": null,
+            "id": 261247446,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2024-06-26T04:16:45Z",
+            "open_issues": 250,
+            "owner": "xuebinqin",
+            "repo": "U-2-Net",
+            "stars": 9892,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "image-background-removal",
+              "image-processing",
+              "image-segmentation",
+              "u-2-net",
+              "u2net"
             ]
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
@@ -1256,7 +1285,7 @@
             "open_issues": 113,
             "owner": "microsoft",
             "repo": "computervision-recipes",
-            "stars": 9891,
+            "stars": 9890,
             "topics": [
               "artificial-intelligence",
               "azure",
@@ -1281,35 +1310,6 @@
         },
         {
           "node_type": "item",
-          "title": "U-2-Net",
-          "description": "U²-Net: nested U-structure architecture for salient object detection.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The code for our newly accepted paper in Pattern Recognition 2020: \"U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection.\"",
-            "homepage": null,
-            "id": 261247446,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2024-06-26T04:16:45Z",
-            "open_issues": 250,
-            "owner": "xuebinqin",
-            "repo": "U-2-Net",
-            "stars": 9891,
-            "topics": [
-              "computer-vision",
-              "deep-learning",
-              "image-background-removal",
-              "image-processing",
-              "image-segmentation",
-              "u-2-net",
-              "u2net"
-            ]
-          },
-          "first_seen": "2026-08-28T20:11:46.284Z"
-        },
-        {
-          "node_type": "item",
           "title": "RobustVideoMatting",
           "description": "Robust video matting supporting PyTorch, TensorFlow, ONNX, and CoreML.",
           "children": [],
@@ -1324,7 +1324,7 @@
             "open_issues": 124,
             "owner": "PeterL1n",
             "repo": "RobustVideoMatting",
-            "stars": 9580,
+            "stars": 9583,
             "topics": [
               "ai",
               "computer-vision",
@@ -1351,7 +1351,7 @@
             "open_issues": 30,
             "owner": "PaddlePaddle",
             "repo": "PaddleSeg",
-            "stars": 9415,
+            "stars": 9413,
             "topics": [
               "autonomous-driving",
               "human-segmentation",
@@ -1381,10 +1381,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-30T15:12:36Z",
-            "open_issues": 533,
+            "open_issues": 535,
             "owner": "Project-MONAI",
             "repo": "MONAI",
-            "stars": 8815,
+            "stars": 8816,
             "topics": [
               "deep-learning",
               "healthcare-imaging",
@@ -1440,7 +1440,7 @@
             "open_issues": 3,
             "owner": "utkuozbulak",
             "repo": "pytorch-cnn-visualizations",
-            "stars": 8239,
+            "stars": 8240,
             "topics": [
               "cam",
               "cnn-visualization",
@@ -1474,7 +1474,7 @@
             "open_issues": 21,
             "owner": "madmaze",
             "repo": "pytesseract",
-            "stars": 6397,
+            "stars": 6398,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
@@ -1574,7 +1574,7 @@
             "open_issues": 0,
             "owner": "obss",
             "repo": "sahi",
-            "stars": 5576,
+            "stars": 5578,
             "topics": [
               "coco",
               "computer-vision",
@@ -1641,8 +1641,8 @@
             "id": 111835796,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-27T20:04:26Z",
-            "open_issues": 226,
+            "last_commit": "2026-11-01T17:56:24Z",
+            "open_issues": 228,
             "owner": "pytorch",
             "repo": "ignite",
             "stars": 4799,
@@ -1819,11 +1819,11 @@
             "id": 631615,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-01T04:03:08Z",
+            "last_commit": "2026-11-02T17:23:08Z",
             "open_issues": 0,
             "owner": "Kitware",
             "repo": "VTK",
-            "stars": 3225,
+            "stars": 3226,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:46.284Z"
@@ -2013,7 +2013,7 @@
             "id": 879116,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-30T20:16:33Z",
+            "last_commit": "2026-11-02T10:11:50Z",
             "open_issues": 162,
             "owner": "psychopy",
             "repo": "psychopy",
@@ -2137,8 +2137,8 @@
             "id": 800928,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-01T03:14:46Z",
-            "open_issues": 395,
+            "last_commit": "2026-11-02T16:28:24Z",
+            "open_issues": 400,
             "owner": "InsightSoftwareConsortium",
             "repo": "ITK",
             "stars": 1670,
@@ -2371,7 +2371,7 @@
             "open_issues": 14,
             "owner": "yzhao062",
             "repo": "anomaly-detection-resources",
-            "stars": 9434,
+            "stars": 9438,
             "topics": [
               "anomaly-detection",
               "awesome",
@@ -2471,7 +2471,7 @@
             "open_issues": 1,
             "owner": "benthecoder",
             "repo": "yt-channels-DS-AI-ML-CS",
-            "stars": 1726,
+            "stars": 1729,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -2502,7 +2502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T15:05:22.007Z",
+    "last_updated": "2026-11-02T18:20:14.871Z",
     "original_repository_info": {
       "archived": false,
       "description": "A structured learning reference for computer vision: from image fundamentals to research frontiers",
@@ -2514,7 +2514,7 @@
       "open_issues": 1,
       "owner": "mawady",
       "repo": "awesome-computer-vision-resources",
-      "stars": 177,
+      "stars": 178,
       "topics": [
         "awesome",
         "awesome-list",
